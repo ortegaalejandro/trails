@@ -7,7 +7,15 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <MapKit/MapKit.h>
 
-@interface XYZViewController : UIViewController
+@interface ViewController : UIViewController {
+    IBOutlet UILabel *Label;
+    IBOutlet UIScrollView *scroller;
+
+    
+}
+
+-(IBAction)link;
 
 @end

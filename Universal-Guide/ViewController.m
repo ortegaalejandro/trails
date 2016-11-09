@@ -6,18 +6,24 @@
 //  Copyright (c) 2014 UNMPRC. All rights reserved.
 //
 
-#import "XYZViewController.h"
+#import "ViewController.h"
 
-@interface XYZViewController ()
+@interface ViewController ()
 
 @end
 
-@implementation XYZViewController
+@implementation ViewController
 
+-(IBAction)link {
+ 
+    [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"http://www.stepintocuba.org"]];
+}
 - (void)viewDidLoad
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+   
+     
 }
 
 - (void)didReceiveMemoryWarning
@@ -25,5 +31,8 @@
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
+
+
+
 
 @end
