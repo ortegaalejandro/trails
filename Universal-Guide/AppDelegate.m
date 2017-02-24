@@ -1,5 +1,5 @@
 //
-//  XYZAppDelegate.m
+//  AppDelegate.m
 //  Universal-Guide
 //
 //  Created by Alejandro Ortega on 7/31/14.

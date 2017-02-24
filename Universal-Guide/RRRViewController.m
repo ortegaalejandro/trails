@@ -6,13 +6,13 @@
 //  Copyright (c) 2014 UNMPRC. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "RRRViewController.h"
 
-@interface ViewController ()
+@interface RRRViewController ()
 
 @end
 
-@implementation ViewController
+@implementation RRRViewController
 
 -(IBAction)link {
  

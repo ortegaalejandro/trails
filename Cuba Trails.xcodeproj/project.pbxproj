@@ -9,8 +9,18 @@
 /* Begin PBXBuildFile section */
 		A94CCC471C1B2EF80043F7C1 /* guidelogos-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A94CCC461C1B2EF80043F7C1 /* guidelogos-1.jpg */; };
 		A953250B1CCBEC8200F83C74 /* Map-7-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A953250A1CCBEC8200F83C74 /* Map-7-1.jpg */; };
+		A96738541DDA424500103D51 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = A96738531DDA424500103D51 /* logo.png */; };
+		A96738561DDA5A8600103D51 /* logo1.png in Resources */ = {isa = PBXBuildFile; fileRef = A96738551DDA5A8600103D51 /* logo1.png */; };
 		A96C850C1DD3797E004DAD9C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A96C85091DD3797E004DAD9C /* AppDelegate.m */; };
 		A96C850D1DD3797E004DAD9C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A96C850B1DD3797E004DAD9C /* ViewController.m */; };
+		A98AF48A1E60816500E19929 /* RRRTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A98AF4891E60816500E19929 /* RRRTableViewController.m */; };
+		A98AF48E1E60818E00E19929 /* ALATableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A98AF48D1E60818E00E19929 /* ALATableViewController.m */; };
+		A98AF4901E6088C000E19929 /* ALADetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A98AF48F1E6088C000E19929 /* ALADetailViewController.m */; };
+		A98AF4931E609C1200E19929 /* ALATableCell.m in Sources */ = {isa = PBXBuildFile; fileRef = A98AF4921E609C1200E19929 /* ALATableCell.m */; };
+		A98AF4951E609CAB00E19929 /* RRRTableCell.m in Sources */ = {isa = PBXBuildFile; fileRef = A98AF4941E609CAB00E19929 /* RRRTableCell.m */; };
+		A9BCA6A01E5C9D7700584518 /* RRRViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A9BCA69F1E5C9D7700584518 /* RRRViewController.m */; };
+		A9BCA6A31E5CB7EF00584518 /* ALAViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A9BCA6A21E5CB7EF00584518 /* ALAViewController.m */; };
+		A9BCA6A71E5CBEEB00584518 /* RRRDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A9BCA6A61E5CBEEB00584518 /* RRRDetailViewController.m */; };
 		A9BDAA1A1CEA3B740017B176 /* 7-1-SCFG.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A9BDAA191CEA3B740017B176 /* 7-1-SCFG.jpg */; };
 		A9DF34E31B17697B0012B8E4 /* iPad-1X-V1.png in Resources */ = {isa = PBXBuildFile; fileRef = A9DF34DD1B17697B0012B8E4 /* iPad-1X-V1.png */; };
 		A9DF34E41B17697B0012B8E4 /* iPad-2X-V1.png in Resources */ = {isa = PBXBuildFile; fileRef = A9DF34DE1B17697B0012B8E4 /* iPad-2X-V1.png */; };
@@ -90,10 +100,28 @@
 /* Begin PBXFileReference section */
 		A94CCC461C1B2EF80043F7C1 /* guidelogos-1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "guidelogos-1.jpg"; sourceTree = "<group>"; };
 		A953250A1CCBEC8200F83C74 /* Map-7-1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Map-7-1.jpg"; sourceTree = "<group>"; };
+		A96738531DDA424500103D51 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logo.png; path = ../../Module/logo.png; sourceTree = "<group>"; };
+		A96738551DDA5A8600103D51 /* logo1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logo1.png; path = ../../Module/logo1.png; sourceTree = "<group>"; };
 		A96C85081DD3797E004DAD9C /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		A96C85091DD3797E004DAD9C /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		A96C850A1DD3797E004DAD9C /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		A96C850B1DD3797E004DAD9C /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		A98AF4891E60816500E19929 /* RRRTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RRRTableViewController.m; sourceTree = "<group>"; };
+		A98AF48B1E60817300E19929 /* RRRTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RRRTableViewController.h; sourceTree = "<group>"; };
+		A98AF48C1E60818400E19929 /* ALATableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ALATableViewController.h; sourceTree = "<group>"; };
+		A98AF48D1E60818E00E19929 /* ALATableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ALATableViewController.m; sourceTree = "<group>"; };
+		A98AF48F1E6088C000E19929 /* ALADetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ALADetailViewController.m; sourceTree = "<group>"; };
+		A98AF4911E609C0800E19929 /* ALATableCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ALATableCell.h; sourceTree = "<group>"; };
+		A98AF4921E609C1200E19929 /* ALATableCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ALATableCell.m; sourceTree = "<group>"; };
+		A98AF4941E609CAB00E19929 /* RRRTableCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RRRTableCell.m; sourceTree = "<group>"; };
+		A98AF4961E609CB200E19929 /* RRRTableCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RRRTableCell.h; sourceTree = "<group>"; };
+		A9BCA69E1E5C9D6A00584518 /* RRRViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RRRViewController.h; sourceTree = "<group>"; };
+		A9BCA69F1E5C9D7700584518 /* RRRViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RRRViewController.m; sourceTree = "<group>"; };
+		A9BCA6A11E5CB7E500584518 /* ALAViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ALAViewController.h; sourceTree = "<group>"; };
+		A9BCA6A21E5CB7EF00584518 /* ALAViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ALAViewController.m; sourceTree = "<group>"; };
+		A9BCA6A41E5CBED800584518 /* RRRDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RRRDetailViewController.h; sourceTree = "<group>"; };
+		A9BCA6A51E5CBEE000584518 /* ALADetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ALADetailViewController.h; sourceTree = "<group>"; };
+		A9BCA6A61E5CBEEB00584518 /* RRRDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RRRDetailViewController.m; sourceTree = "<group>"; };
 		A9BDAA191CEA3B740017B176 /* 7-1-SCFG.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "7-1-SCFG.jpg"; sourceTree = "<group>"; };
 		A9DF34DD1B17697B0012B8E4 /* iPad-1X-V1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iPad-1X-V1.png"; path = "Launch Images/iPad-1X-V1.png"; sourceTree = "<group>"; };
 		A9DF34DE1B17697B0012B8E4 /* iPad-2X-V1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iPad-2X-V1.png"; path = "Launch Images/iPad-2X-V1.png"; sourceTree = "<group>"; };
@@ -261,6 +289,10 @@
 				A96C85091DD3797E004DAD9C /* AppDelegate.m */,
 				A96C850A1DD3797E004DAD9C /* ViewController.h */,
 				A96C850B1DD3797E004DAD9C /* ViewController.m */,
+				A9BCA69E1E5C9D6A00584518 /* RRRViewController.h */,
+				A9BCA69F1E5C9D7700584518 /* RRRViewController.m */,
+				A9BCA6A11E5CB7E500584518 /* ALAViewController.h */,
+				A9BCA6A21E5CB7EF00584518 /* ALAViewController.m */,
 				E9FCE2A21A129DB100066292 /* iPhone35.storyboard */,
 				E90899B8198AC9A100578975 /* iPhone4.storyboard */,
 				E9FCE29F1A1289B700066292 /* iPhone47.storyboard */,
@@ -268,10 +300,22 @@
 				E90899BB198AC9A100578975 /* Main_iPad.storyboard */,
 				E93E0AE01997BA58007B4C57 /* TableViewController.h */,
 				E93E0AE11997BA58007B4C57 /* TableViewController.m */,
+				A98AF48C1E60818400E19929 /* ALATableViewController.h */,
+				A98AF48D1E60818E00E19929 /* ALATableViewController.m */,
+				A98AF48B1E60817300E19929 /* RRRTableViewController.h */,
+				A98AF4891E60816500E19929 /* RRRTableViewController.m */,
 				E93E0AE31997BACA007B4C57 /* TableCell.h */,
 				E93E0AE41997BACA007B4C57 /* TableCell.m */,
+				A98AF4961E609CB200E19929 /* RRRTableCell.h */,
+				A98AF4941E609CAB00E19929 /* RRRTableCell.m */,
+				A98AF4911E609C0800E19929 /* ALATableCell.h */,
+				A98AF4921E609C1200E19929 /* ALATableCell.m */,
 				E93E0AE61997BB45007B4C57 /* DetailViewController.h */,
 				E93E0AE71997BB45007B4C57 /* DetailViewController.m */,
+				A9BCA6A41E5CBED800584518 /* RRRDetailViewController.h */,
+				A9BCA6A61E5CBEEB00584518 /* RRRDetailViewController.m */,
+				A9BCA6A51E5CBEE000584518 /* ALADetailViewController.h */,
+				A98AF48F1E6088C000E19929 /* ALADetailViewController.m */,
 				E90899C1198AC9A100578975 /* Images.xcassets */,
 				E90899AD198AC9A100578975 /* Supporting Files */,
 			);
@@ -281,6 +325,8 @@
 		E90899AD198AC9A100578975 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				A96738551DDA5A8600103D51 /* logo1.png */,
+				A96738531DDA424500103D51 /* logo.png */,
 				E90846D01A1F9AAF00A969FF /* Images */,
 				E90899AE198AC9A100578975 /* Cuba Trails-Info.plist */,
 				E90899AF198AC9A100578975 /* InfoPlist.strings */,
@@ -384,6 +430,7 @@
 				TargetAttributes = {
 					E90899A2198AC9A100578975 = {
 						DevelopmentTeam = 3634J9G6JJ;
+						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.Maps.iOS = {
 								enabled = 0;
@@ -438,6 +485,7 @@
 				E93E0AF51997CCAF007B4C57 /* 4-ParkTrail.JPG in Resources */,
 				E93E0AFA1997CCAF007B4C57 /* 9-SouthCDT.jpg in Resources */,
 				E94D44B1199AF7960062590E /* Map-4.jpg in Resources */,
+				A96738541DDA424500103D51 /* logo.png in Resources */,
 				E9FCE29E1A12897B00066292 /* iPhone55.storyboard in Resources */,
 				E962AAA61A24D25900E03EFE /* Panorama from Cuba Mesa.jpg in Resources */,
 				E94D44CD199D4D180062590E /* Spotlight-40pt.png in Resources */,
@@ -463,6 +511,7 @@
 				E90899B1198AC9A100578975 /* InfoPlist.strings in Resources */,
 				E93E0AF91997CCAF007B4C57 /* 8-LosPinosTrail.JPG in Resources */,
 				E94D44B2199AF7960062590E /* Map-5.jpg in Resources */,
+				A96738561DDA5A8600103D51 /* logo1.png in Resources */,
 				E94D44AE199AF7960062590E /* Map-1.jpg in Resources */,
 				A94CCC471C1B2EF80043F7C1 /* guidelogos-1.jpg in Resources */,
 				E93E0AF41997CCAF007B4C57 /* 3-LibraryLoop.JPG in Resources */,
@@ -489,9 +538,17 @@
 				A96C850D1DD3797E004DAD9C /* ViewController.m in Sources */,
 				E90899B3198AC9A100578975 /* main.m in Sources */,
 				E93E0AE51997BACA007B4C57 /* TableCell.m in Sources */,
+				A9BCA6A31E5CB7EF00584518 /* ALAViewController.m in Sources */,
 				E93E0AE21997BA58007B4C57 /* TableViewController.m in Sources */,
 				E93E0AE81997BB45007B4C57 /* DetailViewController.m in Sources */,
 				A96C850C1DD3797E004DAD9C /* AppDelegate.m in Sources */,
+				A98AF4951E609CAB00E19929 /* RRRTableCell.m in Sources */,
+				A98AF48E1E60818E00E19929 /* ALATableViewController.m in Sources */,
+				A98AF4901E6088C000E19929 /* ALADetailViewController.m in Sources */,
+				A98AF4931E609C1200E19929 /* ALATableCell.m in Sources */,
+				A9BCA6A71E5CBEEB00584518 /* RRRDetailViewController.m in Sources */,
+				A9BCA6A01E5C9D7700584518 /* RRRViewController.m in Sources */,
+				A98AF48A1E60816500E19929 /* RRRTableViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -659,14 +716,16 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Beth Hamilton (32Q6W9932X)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 3634J9G6JJ;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Universal-Guide/Cuba Trails-Prefix.pch";
 				INFOPLIST_FILE = "Universal-Guide/Cuba Trails-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.stepintocuba.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "Cuba Trails";
-				PROVISIONING_PROFILE = "d8dcdb16-f369-436b-8d17-643d3d546e5c";
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
@@ -678,14 +737,16 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Beth Hamilton (32Q6W9932X)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 3634J9G6JJ;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Universal-Guide/Cuba Trails-Prefix.pch";
 				INFOPLIST_FILE = "Universal-Guide/Cuba Trails-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.stepintocuba.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "Cuba Trails";
-				PROVISIONING_PROFILE = "d8dcdb16-f369-436b-8d17-643d3d546e5c";
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};

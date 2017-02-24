@@ -6,17 +6,17 @@
 //  Copyright (c) 2014 UNMPRC. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "ALAViewController.h"
 
-@interface ViewController ()
+@interface ALAViewController ()
 
 @end
 
-@implementation ViewController
+@implementation ALAViewController
 
 -(IBAction)link {
  
-    [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"http://www.stepintocuba.org"]];
+    [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"https://prescriptiontrails.org/c/Otero-County"]];
 }
 - (void)viewDidLoad
 {
