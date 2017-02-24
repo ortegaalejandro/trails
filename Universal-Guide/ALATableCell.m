@@ -8,7 +8,7 @@
 
 #import "ALATableCell.h"
 
-@implementation TableCell
+@implementation TableCellALA
 
 - (id)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString *)reuseIdentifier
 {

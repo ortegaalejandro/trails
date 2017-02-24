@@ -7,14 +7,14 @@
 //
 
 #import "RRRTableViewController.h"
-#import "TableCell.h"
+#import "RRRTableCell.h"
 #import "RRRDetailViewController.h"
 
-@interface TableViewController ()
+@interface RRRTableViewController ()
 
 @end
 
-@implementation TableViewController
+@implementation RRRTableViewController
 
 - (id)initWithStyle:(UITableViewStyle)style
 {
@@ -35,7 +35,7 @@
     // Uncomment the following line to display an Edit button in the navigation bar for this view controller.
     // self.navigationItem.rightBarButtonItem = self.editButtonItem;
     
-    _Title = @[@"Roundhouse Memorial Park trails",
+    _TitleRRR = @[@"Roundhouse Memorial Park trails",
                @"Raton Regional Aquatic Center",
                @"Raton High School Track",
                @"Boardwalk & River Walk Trail",
@@ -58,7 +58,7 @@
                @"Little Horse Mesa Trail",
                @"Boca Trail",];
     
-    _Description = @[@"1.7 mile, Easy",
+    _DescriptionRRR = @[@"1.7 mile, Easy",
                      @"350 feet, Easy",
                      @"0.25 mile, Easy",
                      @"Boardwalk 500 ft, trail 0.5 mile, Easy",
@@ -81,7 +81,7 @@
                      @"0.75 mile, Strenuous",
                      @"2 mile loop, Strenuous",];
     
-    _Images = @[@"001-RRR.jpg",
+    _ImagesRRR = @[@"001-RRR.jpg",
                 @"002-RRR.jpg",
                 @"003-RRR.jpg",
                 @"004-RRR.jpg",
@@ -105,7 +105,7 @@
                 @"021-RRR.jpg",
                 @"022-RRR.jpg",];
     
-    _Dogs = @[@"dogs-allowed.jpg",
+    _DogsRRR = @[@"dogs-allowed.jpg",
               @"dogs-not-allowed.jpg",
               @"dogs-not-allowed.jpg",
               @"dogs-allowed.jpg",
@@ -128,7 +128,7 @@
               @"dogs-allowed.jpg",
               @"dogs-not-allowed.jpg",];
     
-    _Map = @[@"001-RRR.png",
+    _MapRRR = @[@"001-RRR.png",
              @"002-RRR.png",
              @"003-RRR.png",
              @"004-RRR.png",
@@ -152,7 +152,7 @@
              @"021-RRR.png",
              @"022-RRR.png",];
     
-    _MapLink = @[@"http://maps.apple.com/maps?daddr=36.899160,-104.435618",
+    _MapLinkRRR = @[@"http://maps.apple.com/maps?daddr=36.899160,-104.435618",
                  @"http://maps.apple.com/maps?daddr=36.899160,-104.435618",
                  @"http://maps.apple.com/maps?daddr=36.892357,-104.443706",
                  @"http://maps.apple.com/maps?daddr=36.940195,-104.380122",
@@ -195,25 +195,25 @@
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
 {
     // Return the number of rows in the section.
-    return _Title.count;
+    return _TitleRRR.count;
 }
 
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
 {
-    static NSString *CellIdentifier = @"TableCell";
-    TableCell *cell = [tableView dequeueReusableCellWithIdentifier:CellIdentifier forIndexPath:indexPath];
+    static NSString *CellIdentifier = @"TableCellRRR";
+    TableCellRRR *cell = [tableView dequeueReusableCellWithIdentifier:CellIdentifier forIndexPath:indexPath];
     
     // Configure the cell...
     
     int row = (int)[indexPath row];
     
-    cell.TitleLabel.text = _Title[row];
-    cell.DescriptionLabel.text = _Description[row];
-    cell.ThumbImage.image = [UIImage imageNamed:_Images[row]];
-    cell.DogsLabel.image = [UIImage imageNamed:_Dogs[row]];
-    cell.Map.image = [UIImage imageNamed:_Map[row]];
-    cell.MapLink = _MapLink[row];
+    cell.TitleLabelRRR.text = _TitleRRR[row];
+    cell.DescriptionLabelRRR.text = _DescriptionRRR[row];
+    cell.ThumbImageRRR.image = [UIImage imageNamed:_ImagesRRR[row]];
+    cell.DogsLabelRRR.image = [UIImage imageNamed:_DogsRRR[row]];
+    cell.MapRRR.image = [UIImage imageNamed:_MapRRR[row]];
+    cell.MapLinkRRR = _MapLinkRRR[row];
     
     return cell;
 }
@@ -226,7 +226,7 @@
         NSIndexPath *myIndexPath = [self.tableView indexPathForSelectedRow];
         
         int row = (int)[myIndexPath row];
-        detailviewcontroller.DetailModal = @[_Title[row],_Description[row],_Images[row], _Dogs[row],_Map[row],_MapLink[row]];
+        detailviewcontroller.DetailModalRRR = @[_TitleRRR[row],_DescriptionRRR[row],_ImagesRRR[row], _DogsRRR[row],_MapRRR[row],_MapLinkRRR[row]];
     }
 }
 

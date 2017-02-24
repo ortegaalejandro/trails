@@ -24,15 +24,15 @@
 -(IBAction)SendATweet:(id)sender;
 
 
-@property (strong, nonatomic) IBOutlet UILabel *TitleLabel;
-@property (strong, nonatomic) IBOutlet UILabel *DescriptionLabel;
-@property (strong, nonatomic) IBOutlet UIImageView *ImageView;
-@property (strong, nonatomic) IBOutlet UIImageView *DogsLabel;
-@property (strong, nonatomic) IBOutlet UIImageView *Map;
-@property (strong, nonatomic) IBOutlet NSString *MapLink;
+@property (strong, nonatomic) IBOutlet UILabel *TitleLabelRRR;
+@property (strong, nonatomic) IBOutlet UILabel *DescriptionLabelRRR;
+@property (strong, nonatomic) IBOutlet UIImageView *ImageViewRRR;
+@property (strong, nonatomic) IBOutlet UIImageView *DogsLabelRRR;
+@property (strong, nonatomic) IBOutlet UIImageView *MapRRR;
+@property (strong, nonatomic) IBOutlet NSString *MapLinkRRR;
 
 
-@property (strong, nonatomic) NSArray *DetailModal;
+@property (strong, nonatomic) NSArray *DetailModalRRR;
 
 
 

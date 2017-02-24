@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface TableViewController : UITableViewController
+@interface ALATableViewController : UITableViewController
 
 @property (nonatomic, strong) NSArray *ImagesALA;
 @property (nonatomic, strong) NSArray *TitleALA;

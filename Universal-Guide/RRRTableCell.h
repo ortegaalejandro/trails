@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface TableCell : UITableViewCell
+@interface TableCellRRR : UITableViewCell
 
 @property (strong,nonatomic) IBOutlet UILabel *TitleLabelRRR;
 @property (strong,nonatomic) IBOutlet UILabel *DescriptionLabelRRR;

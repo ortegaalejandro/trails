@@ -8,7 +8,7 @@
 
 #import "RRRTableCell.h"
 
-@implementation TableCell
+@implementation TableCellRRR
 
 - (id)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString *)reuseIdentifier
 {

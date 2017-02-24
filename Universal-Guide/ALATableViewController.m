@@ -9,11 +9,11 @@
 #import "ALATableCell.h"
 #import "ALADetailViewController.h"
 
-@interface TableViewController ()
+@interface ALATableViewController ()
 
 @end
 
-@implementation TableViewController
+@implementation ALATableViewController
 
 - (id)initWithStyle:(UITableViewStyle)style
 {
@@ -146,7 +146,7 @@
                  - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
     {
         static NSString *CellIdentifier = @"TableCell";
-        TableCell *cell = [tableView dequeueReusableCellWithIdentifier:CellIdentifier forIndexPath:indexPath];
+        TableCellALA *cell = [tableView dequeueReusableCellWithIdentifier:CellIdentifier forIndexPath:indexPath];
         
         // Configure the cell...
         
