@@ -8,14 +8,14 @@
 
 #import <UIKit/UIKit.h>
 
-@interface TableViewController : UITableViewController
+@interface RRRTableViewController : UITableViewController
 
-@property (nonatomic, strong) NSArray *Images;
-@property (nonatomic, strong) NSArray *Title;
-@property (nonatomic, strong) NSArray *Description;
-@property (nonatomic, strong) NSArray *Dogs;
-@property (nonatomic, strong) NSArray *Map;
-@property (nonatomic, strong) NSArray *MapLink;
+@property (nonatomic, strong) NSArray *ImagesRRR;
+@property (nonatomic, strong) NSArray *TitleRRR;
+@property (nonatomic, strong) NSArray *DescriptionRRR;
+@property (nonatomic, strong) NSArray *DogsRRR;
+@property (nonatomic, strong) NSArray *MapRRR;
+@property (nonatomic, strong) NSArray *MapLinkRRR;
 
 
 @end
