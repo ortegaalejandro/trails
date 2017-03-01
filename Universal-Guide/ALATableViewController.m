@@ -63,18 +63,18 @@
                      @".2 mile, Grade 3 Blacktop",];
     
     
-    _ImagesALA =   @[@"001-TI.JPG",
-                  @"002-TI.jpg",
+    _ImagesALA =   @[@"001-TI.png",
+                  @"002-TI.png",
                   @"003-TI.JPG",
-                  @"004-TI.JPG",
+                  @"004-TI.png",
                   @"005-TI.jpg",
                   @"006-TI.JPG",
                   @"007-TI.JPG",
                   @"008-TI.JPG",
-                  @"009-TI.jpg",
+                  @"009-TI.png",
                   @"010-TI.JPG",
                   @"011-TI.JPG",
-                  @"012-TI.JPG",
+                  @"012-TI.png",
                   @"013-TI.JPG",];
     
     _DogsALA = @[@"dogs-not-allowed.jpg",
@@ -145,7 +145,7 @@
                  
                  - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
     {
-        static NSString *CellIdentifier = @"TableCell";
+        static NSString *CellIdentifier = @"TableCellALA";
         TableCellALA *cell = [tableView dequeueReusableCellWithIdentifier:CellIdentifier forIndexPath:indexPath];
         
         // Configure the cell...

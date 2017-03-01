@@ -86,7 +86,6 @@
                 @"003-RRR.jpg",
                 @"004-RRR.jpg",
                 @"005-RRR.jpg",
-                @"005-RRR.jpg",
                 @"006-RRR.jpg",
                 @"007-RRR.jpg",
                 @"008-RRR.jpg",
