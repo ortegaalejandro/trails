@@ -13,7 +13,7 @@
 @interface SCTDetailViewController : UIViewController {
     
        
-    IBOutlet UILabel *details;
+    IBOutlet UILabel *SCTdetails;
     SLComposeViewController *mySLCompserSheet;
 
     

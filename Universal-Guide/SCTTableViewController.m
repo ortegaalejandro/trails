@@ -93,8 +93,7 @@
                 @"016-SCT.jpg",
                 @"017-SCT.jpg",
                 @"018-SCT.jpg",
-                @"019-SCT.jpg",
-                @"020-SCT.jpg",];
+                @"019-SCT.jpg",];
     
     _DogsSCT = @[@"dogs-allowed.jpg",
               @"dogs-not-allowed.jpg",
@@ -135,8 +134,7 @@
              @"016-MapSCT.png",
              @"017-MapSCT.png",
              @"018-MapSCT.png",
-             @"019-MapSCT.png",
-             @"020-MapSCT.png",];
+             @"019-MapSCT.png",];
     
     _MapLinkSCT = @[@"http://maps.apple.com/maps?daddr=32.77096,-108.275229",
                  @"http://maps.apple.com/maps?daddr=32.793398,-108.269396",

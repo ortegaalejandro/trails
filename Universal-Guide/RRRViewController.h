@@ -10,7 +10,7 @@
 #import <MapKit/MapKit.h>
 
 @interface RRRViewController : UIViewController {
-    IBOutlet UILabel *Label;
+ 
     
 
     
