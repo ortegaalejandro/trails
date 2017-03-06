@@ -132,7 +132,6 @@
              @"003-RRR.png",
              @"004-RRR.png",
              @"005-RRR.png",
-             @"005-RRR.png",
              @"006-RRR.png",
              @"007-RRR.png",
              @"008-RRR.png",
