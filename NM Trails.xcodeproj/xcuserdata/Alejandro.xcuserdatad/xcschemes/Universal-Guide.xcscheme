@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E90899A2198AC9A100578975"
-               BuildableName = "VIVA Connects Trails.app"
+               BuildableName = "NM Trails.app"
                BlueprintName = "NM Trails"
                ReferencedContainer = "container:NM Trails.xcodeproj">
             </BuildableReference>
@@ -29,7 +29,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E90899C6198AC9A100578975"
-               BuildableName = "VIVA Connects TrailsTests.xctest"
+               BuildableName = "NM TrailsTests.xctest"
                BlueprintName = "NM TrailsTests"
                ReferencedContainer = "container:NM Trails.xcodeproj">
             </BuildableReference>
@@ -47,7 +47,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E90899C6198AC9A100578975"
-               BuildableName = "VIVA Connects TrailsTests.xctest"
+               BuildableName = "NM TrailsTests.xctest"
                BlueprintName = "NM TrailsTests"
                ReferencedContainer = "container:NM Trails.xcodeproj">
             </BuildableReference>
@@ -57,7 +57,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E90899A2198AC9A100578975"
-            BuildableName = "VIVA Connects Trails.app"
+            BuildableName = "NM Trails.app"
             BlueprintName = "NM Trails"
             ReferencedContainer = "container:NM Trails.xcodeproj">
          </BuildableReference>
@@ -74,13 +74,13 @@
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
-      allowLocationSimulation = "YES">
+      allowLocationSimulation = "NO">
       <BuildableProductRunnable
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E90899A2198AC9A100578975"
-            BuildableName = "VIVA Connects Trails.app"
+            BuildableName = "NM Trails.app"
             BlueprintName = "NM Trails"
             ReferencedContainer = "container:NM Trails.xcodeproj">
          </BuildableReference>
@@ -99,7 +99,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E90899A2198AC9A100578975"
-            BuildableName = "VIVA Connects Trails.app"
+            BuildableName = "NM Trails.app"
             BlueprintName = "NM Trails"
             ReferencedContainer = "container:NM Trails.xcodeproj">
          </BuildableReference>

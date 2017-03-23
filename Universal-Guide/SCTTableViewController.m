@@ -96,7 +96,7 @@
                 @"019-SCT.jpg",];
     
     _DogsSCT = @[@"dogs-allowed.jpg",
-              @"dogs-not-allowed.jpg",
+              @"dogs-not-allowed.png",
               @"dogs-allowed.jpg",
               @"dogs-allowed.jpg",
               @"dogs-allowed.jpg",
@@ -107,7 +107,7 @@
               @"dogs-allowed.jpg",
               @"dogs-allowed.jpg",
               @"dogs-allowed.jpg",
-              @"dogs-not-allowed.jpg",
+              @"dogs-not-allowed.png",
               @"dogs-allowed.jpg",
               @"dogs-allowed.jpg",
               @"dogs-allowed.jpg",
@@ -119,7 +119,6 @@
              @"002-MapSCT.png",
              @"003-MapSCT.png",
              @"004-MapSCT.png",
-             @"005-MapSCT.png",
              @"005-MapSCT.png",
              @"006-MapSCT.png",
              @"007-MapSCT.png",

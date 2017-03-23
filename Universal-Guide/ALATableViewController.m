@@ -77,19 +77,19 @@
                   @"012-TI.png",
                   @"013-TI.JPG",];
     
-    _DogsALA = @[@"dogs-not-allowed.jpg",
-              @"dogs-not-allowed.jpg",
+    _DogsALA = @[@"dogs-not-allowed.png",
+              @"dogs-not-allowed.png",
               @"dogs-allowed.jpg",
-              @"dogs—not-allowed.jpg",
+              @"dogs-not-allowed.png",
               @"dogs-allowed.jpg",
               @"dogs-allowed.jpg",
-              @"dogs-not-allowed.jpg",
-              @"dogs-not-allowed.jpg",
-              @"dogs-not-allowed.jpg",
-              @"dogs-not-allowed.jpg",
-              @"dogs-not-allowed.jpg",
-              @"dogs-not-allowed.jpg",
-              @"dogs-not-allowed.jpg",];
+              @"dogs-not-allowed.png",
+              @"dogs-not-allowed.png",
+              @"dogs-not-allowed.png",
+              @"dogs-not-allowed.png",
+              @"dogs-not-allowed.png",
+              @"dogs-not-allowed.png",
+              @"dogs-not-allowed.png",];
     
       _MapALA = @[@"001-ALA.png",
                @"002-ALA.png",

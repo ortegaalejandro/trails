@@ -40,7 +40,7 @@
     
     self.navigationItem.title = _DetailModalALA[0];
     
-    if ([_TitleLabelALA.text isEqualToString:@"Alameda Park Zoo Walking Area"]) {
+    if ([_TitleLabelALA.text isEqualToString:@"Alameda Park Zoo"]) {
         detailsALA.text = @"Surface: Concreate sidewalks. Open 9:00 a.m. - 5:00 p.m. daily (except Christmas and New Year’s Day) Yes. 2 years and under free; 3-11 years $1.50; 12-59 years $2.50; 60+ $1.50; membership passes available. Fully accessible for people using wheelchairs, walkers and strollers; Butterfly Gazebo; animal sanctuaries; playground; green spaces; picnic tables; benches";
     }
     if ([_TitleLabelALA.text isEqualToString:@"Alamogordo High School Track"]) {
