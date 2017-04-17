@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A9104A101EA57E6A000F914A /* 008-RRR.png in Resources */ = {isa = PBXBuildFile; fileRef = A9104A0F1EA57E6A000F914A /* 008-RRR.png */; };
 		A921472A1E65E3870060DAED /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A92147291E65E3870060DAED /* CoreLocation.framework */; settings = {ATTRIBUTES = (Required, ); }; };
 		A927D7D81E7C65470038B5E0 /* menu.png in Resources */ = {isa = PBXBuildFile; fileRef = A927D7D71E7C65470038B5E0 /* menu.png */; };
 		A94B6AFA1E6489660083E735 /* Splash.png in Resources */ = {isa = PBXBuildFile; fileRef = A94B6AF81E6489660083E735 /* Splash.png */; };
@@ -36,7 +37,6 @@
 		A95554D31E94357900A06479 /* 005-SCT.png in Resources */ = {isa = PBXBuildFile; fileRef = A95554BF1E94357900A06479 /* 005-SCT.png */; };
 		A95554D41E94357900A06479 /* 006-SCT.png in Resources */ = {isa = PBXBuildFile; fileRef = A95554C01E94357900A06479 /* 006-SCT.png */; };
 		A95554D51E94357900A06479 /* 007-SCT.png in Resources */ = {isa = PBXBuildFile; fileRef = A95554C11E94357900A06479 /* 007-SCT.png */; };
-		A95554D61E94357900A06479 /* 008-RRR.png in Resources */ = {isa = PBXBuildFile; fileRef = A95554C21E94357900A06479 /* 008-RRR.png */; };
 		A95554D71E94357900A06479 /* 008-SCT.png in Resources */ = {isa = PBXBuildFile; fileRef = A95554C31E94357900A06479 /* 008-SCT.png */; };
 		A95554D81E94357900A06479 /* 009-SCT.png in Resources */ = {isa = PBXBuildFile; fileRef = A95554C41E94357900A06479 /* 009-SCT.png */; };
 		A95554D91E94357900A06479 /* 010-SCT.png in Resources */ = {isa = PBXBuildFile; fileRef = A95554C51E94357900A06479 /* 010-SCT.png */; };
@@ -278,6 +278,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A9104A0F1EA57E6A000F914A /* 008-RRR.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "008-RRR.png"; sourceTree = "<group>"; };
 		A92147291E65E3870060DAED /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
 		A927D7D71E7C65470038B5E0 /* menu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menu.png; sourceTree = "<group>"; };
 		A94B6AF81E6489660083E735 /* Splash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Splash.png; sourceTree = "<group>"; };
@@ -308,7 +309,6 @@
 		A95554BF1E94357900A06479 /* 005-SCT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "005-SCT.png"; sourceTree = "<group>"; };
 		A95554C01E94357900A06479 /* 006-SCT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "006-SCT.png"; sourceTree = "<group>"; };
 		A95554C11E94357900A06479 /* 007-SCT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "007-SCT.png"; sourceTree = "<group>"; };
-		A95554C21E94357900A06479 /* 008-RRR.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "008-RRR.png"; sourceTree = "<group>"; };
 		A95554C31E94357900A06479 /* 008-SCT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "008-SCT.png"; sourceTree = "<group>"; };
 		A95554C41E94357900A06479 /* 009-SCT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "009-SCT.png"; sourceTree = "<group>"; };
 		A95554C51E94357900A06479 /* 010-SCT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "010-SCT.png"; sourceTree = "<group>"; };
@@ -593,7 +593,6 @@
 				A95554BF1E94357900A06479 /* 005-SCT.png */,
 				A95554C01E94357900A06479 /* 006-SCT.png */,
 				A95554C11E94357900A06479 /* 007-SCT.png */,
-				A95554C21E94357900A06479 /* 008-RRR.png */,
 				A95554C31E94357900A06479 /* 008-SCT.png */,
 				A95554C41E94357900A06479 /* 009-SCT.png */,
 				A95554C51E94357900A06479 /* 010-SCT.png */,
@@ -819,6 +818,7 @@
 		A927D7D21E7C4C3E0038B5E0 /* RRR images */ = {
 			isa = PBXGroup;
 			children = (
+				A9104A0F1EA57E6A000F914A /* 008-RRR.png */,
 				A95CBD821E6DCE7E00672514 /* 012-RRR.jpg */,
 				A99117CA1E6DB9F900EB0C28 /* 008-RRR.jpg */,
 				A9B9A2731E6A065F00CDD1A5 /* 003-RRR.jpg */,
@@ -1269,6 +1269,7 @@
 				E90899BA198AC9A100578975 /* iPhone4.storyboard in Resources */,
 				A98AF50F1E60D2C400E19929 /* 016-RRR.jpg in Resources */,
 				A98AF4C21E60A99300E19929 /* 014-RRR.png in Resources */,
+				A9104A101EA57E6A000F914A /* 008-RRR.png in Resources */,
 				E94D44CA199D4D180062590E /* iPad-2x76pt.png in Resources */,
 				A988B0B41E82E9FA00A35F2D /* Banner_Southeastern Icon.png in Resources */,
 				A98AF5091E60D2C400E19929 /* 010-RRR.jpg in Resources */,
@@ -1276,7 +1277,6 @@
 				A999336F1E807A0200D98FF2 /* iPhone55.png in Resources */,
 				E93E0AF51997CCAF007B4C57 /* 4-ParkTrail.JPG in Resources */,
 				A98AF4CB1E60A99300E19929 /* 005-RRR.png in Resources */,
-				A95554D61E94357900A06479 /* 008-RRR.png in Resources */,
 				A97030E81E676CB20052FF7C /* 019-MapSCT.png in Resources */,
 				A999336A1E807A0200D98FF2 /* iPad.png in Resources */,
 				A98AF4D71E60A99300E19929 /* 010-ALA.png in Resources */,
