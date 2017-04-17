@@ -20,6 +20,37 @@
 		A94B6B0D1E64B6EE0083E735 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A94B6B0C1E64B6EE0083E735 /* MapKit.framework */; };
 		A94CCC471C1B2EF80043F7C1 /* guidelogos-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A94CCC461C1B2EF80043F7C1 /* guidelogos-1.jpg */; };
 		A953250B1CCBEC8200F83C74 /* Map-7-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A953250A1CCBEC8200F83C74 /* Map-7-1.jpg */; };
+		A95554B21E942AB900A06479 /* 001-TI.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A95554A91E942AB900A06479 /* 001-TI.jpg */; };
+		A95554B31E942AB900A06479 /* 003-TI.png in Resources */ = {isa = PBXBuildFile; fileRef = A95554AA1E942AB900A06479 /* 003-TI.png */; };
+		A95554B41E942AB900A06479 /* 005-TI.png in Resources */ = {isa = PBXBuildFile; fileRef = A95554AB1E942AB900A06479 /* 005-TI.png */; };
+		A95554B51E942AB900A06479 /* 006-TI.png in Resources */ = {isa = PBXBuildFile; fileRef = A95554AC1E942AB900A06479 /* 006-TI.png */; };
+		A95554B61E942AB900A06479 /* 007-TI.png in Resources */ = {isa = PBXBuildFile; fileRef = A95554AD1E942AB900A06479 /* 007-TI.png */; };
+		A95554B71E942AB900A06479 /* 008-TI.png in Resources */ = {isa = PBXBuildFile; fileRef = A95554AE1E942AB900A06479 /* 008-TI.png */; };
+		A95554B81E942AB900A06479 /* 010-TI.png in Resources */ = {isa = PBXBuildFile; fileRef = A95554AF1E942AB900A06479 /* 010-TI.png */; };
+		A95554B91E942AB900A06479 /* 011-TI.png in Resources */ = {isa = PBXBuildFile; fileRef = A95554B01E942AB900A06479 /* 011-TI.png */; };
+		A95554BA1E942AB900A06479 /* 013-TI.png in Resources */ = {isa = PBXBuildFile; fileRef = A95554B11E942AB900A06479 /* 013-TI.png */; };
+		A95554CF1E94357900A06479 /* 001-SCT.png in Resources */ = {isa = PBXBuildFile; fileRef = A95554BB1E94357900A06479 /* 001-SCT.png */; };
+		A95554D01E94357900A06479 /* 002-SCT.png in Resources */ = {isa = PBXBuildFile; fileRef = A95554BC1E94357900A06479 /* 002-SCT.png */; };
+		A95554D11E94357900A06479 /* 003-SCT.png in Resources */ = {isa = PBXBuildFile; fileRef = A95554BD1E94357900A06479 /* 003-SCT.png */; };
+		A95554D21E94357900A06479 /* 004-SCT.png in Resources */ = {isa = PBXBuildFile; fileRef = A95554BE1E94357900A06479 /* 004-SCT.png */; };
+		A95554D31E94357900A06479 /* 005-SCT.png in Resources */ = {isa = PBXBuildFile; fileRef = A95554BF1E94357900A06479 /* 005-SCT.png */; };
+		A95554D41E94357900A06479 /* 006-SCT.png in Resources */ = {isa = PBXBuildFile; fileRef = A95554C01E94357900A06479 /* 006-SCT.png */; };
+		A95554D51E94357900A06479 /* 007-SCT.png in Resources */ = {isa = PBXBuildFile; fileRef = A95554C11E94357900A06479 /* 007-SCT.png */; };
+		A95554D61E94357900A06479 /* 008-RRR.png in Resources */ = {isa = PBXBuildFile; fileRef = A95554C21E94357900A06479 /* 008-RRR.png */; };
+		A95554D71E94357900A06479 /* 008-SCT.png in Resources */ = {isa = PBXBuildFile; fileRef = A95554C31E94357900A06479 /* 008-SCT.png */; };
+		A95554D81E94357900A06479 /* 009-SCT.png in Resources */ = {isa = PBXBuildFile; fileRef = A95554C41E94357900A06479 /* 009-SCT.png */; };
+		A95554D91E94357900A06479 /* 010-SCT.png in Resources */ = {isa = PBXBuildFile; fileRef = A95554C51E94357900A06479 /* 010-SCT.png */; };
+		A95554DA1E94357900A06479 /* 011-SCT.png in Resources */ = {isa = PBXBuildFile; fileRef = A95554C61E94357900A06479 /* 011-SCT.png */; };
+		A95554DB1E94357900A06479 /* 012-SCT.png in Resources */ = {isa = PBXBuildFile; fileRef = A95554C71E94357900A06479 /* 012-SCT.png */; };
+		A95554DC1E94357900A06479 /* 013-SCT.png in Resources */ = {isa = PBXBuildFile; fileRef = A95554C81E94357900A06479 /* 013-SCT.png */; };
+		A95554DD1E94357900A06479 /* 014-SCT.png in Resources */ = {isa = PBXBuildFile; fileRef = A95554C91E94357900A06479 /* 014-SCT.png */; };
+		A95554DE1E94357900A06479 /* 015-SCT.png in Resources */ = {isa = PBXBuildFile; fileRef = A95554CA1E94357900A06479 /* 015-SCT.png */; };
+		A95554DF1E94357900A06479 /* 016-SCT.png in Resources */ = {isa = PBXBuildFile; fileRef = A95554CB1E94357900A06479 /* 016-SCT.png */; };
+		A95554E01E94357900A06479 /* 017-SCT.png in Resources */ = {isa = PBXBuildFile; fileRef = A95554CC1E94357900A06479 /* 017-SCT.png */; };
+		A95554E11E94357900A06479 /* 019-SCT.png in Resources */ = {isa = PBXBuildFile; fileRef = A95554CD1E94357900A06479 /* 019-SCT.png */; };
+		A95554E41E9436DA00A06479 /* 018-SCT.png in Resources */ = {isa = PBXBuildFile; fileRef = A95554E31E9436DA00A06479 /* 018-SCT.png */; };
+		A95554E61E9438E300A06479 /* 020-SCT.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A95554E51E9438E300A06479 /* 020-SCT.jpg */; };
+		A95554E81E94394700A06479 /* 020-SCT.png in Resources */ = {isa = PBXBuildFile; fileRef = A95554E71E94394700A06479 /* 020-SCT.png */; };
 		A95CBD811E6DBEB100672514 /* RRRCover.png in Resources */ = {isa = PBXBuildFile; fileRef = A95CBD801E6DBEB100672514 /* RRRCover.png */; };
 		A95CBD831E6DCE7E00672514 /* 012-RRR.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A95CBD821E6DCE7E00672514 /* 012-RRR.jpg */; };
 		A96C850C1DD3797E004DAD9C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A96C85091DD3797E004DAD9C /* AppDelegate.m */; };
@@ -32,7 +63,6 @@
 		A97030E71E676CB20052FF7C /* 020-MapSCT.png in Resources */ = {isa = PBXBuildFile; fileRef = A97030D31E676CB20052FF7C /* 020-MapSCT.png */; };
 		A97030E81E676CB20052FF7C /* 019-MapSCT.png in Resources */ = {isa = PBXBuildFile; fileRef = A97030D41E676CB20052FF7C /* 019-MapSCT.png */; };
 		A97030E91E676CB20052FF7C /* 018-MapSCT.png in Resources */ = {isa = PBXBuildFile; fileRef = A97030D51E676CB20052FF7C /* 018-MapSCT.png */; };
-		A97030EA1E676CB20052FF7C /* 017-MapSCT.png in Resources */ = {isa = PBXBuildFile; fileRef = A97030D61E676CB20052FF7C /* 017-MapSCT.png */; };
 		A97030EB1E676CB20052FF7C /* 016-MapSCT.png in Resources */ = {isa = PBXBuildFile; fileRef = A97030D71E676CB20052FF7C /* 016-MapSCT.png */; };
 		A97030EC1E676CB20052FF7C /* 015-MapSCT.png in Resources */ = {isa = PBXBuildFile; fileRef = A97030D81E676CB20052FF7C /* 015-MapSCT.png */; };
 		A97030ED1E676CB20052FF7C /* 014-MapSCT.png in Resources */ = {isa = PBXBuildFile; fileRef = A97030D91E676CB20052FF7C /* 014-MapSCT.png */; };
@@ -49,24 +79,11 @@
 		A97030F81E676CB20052FF7C /* 003-MapSCT.png in Resources */ = {isa = PBXBuildFile; fileRef = A97030E41E676CB20052FF7C /* 003-MapSCT.png */; };
 		A97030F91E676CB20052FF7C /* 002-MapSCT.png in Resources */ = {isa = PBXBuildFile; fileRef = A97030E51E676CB20052FF7C /* 002-MapSCT.png */; };
 		A97030FA1E676CB20052FF7C /* 001-MapSCT.png in Resources */ = {isa = PBXBuildFile; fileRef = A97030E61E676CB20052FF7C /* 001-MapSCT.png */; };
-		A970310F1E676D1F0052FF7C /* 012-SCT.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A97030FB1E676D1F0052FF7C /* 012-SCT.jpg */; };
-		A97031101E676D1F0052FF7C /* 013-SCT.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A97030FC1E676D1F0052FF7C /* 013-SCT.jpg */; };
-		A97031111E676D1F0052FF7C /* 014-SCT.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A97030FD1E676D1F0052FF7C /* 014-SCT.jpg */; };
-		A97031121E676D1F0052FF7C /* 015-SCT.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A97030FE1E676D1F0052FF7C /* 015-SCT.jpg */; };
-		A97031131E676D1F0052FF7C /* 016-SCT.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A97030FF1E676D1F0052FF7C /* 016-SCT.jpg */; };
-		A97031141E676D1F0052FF7C /* 017-SCT.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A97031001E676D1F0052FF7C /* 017-SCT.jpg */; };
-		A97031151E676D1F0052FF7C /* 018-SCT.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A97031011E676D1F0052FF7C /* 018-SCT.jpg */; };
-		A97031181E676D1F0052FF7C /* 001-SCT.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A97031041E676D1F0052FF7C /* 001-SCT.jpg */; };
-		A97031191E676D1F0052FF7C /* 002-SCT.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A97031051E676D1F0052FF7C /* 002-SCT.jpg */; };
-		A970311A1E676D1F0052FF7C /* 003-SCT.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A97031061E676D1F0052FF7C /* 003-SCT.jpg */; };
-		A970311B1E676D1F0052FF7C /* 004-SCT.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A97031071E676D1F0052FF7C /* 004-SCT.jpg */; };
-		A970311C1E676D1F0052FF7C /* 005-SCT.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A97031081E676D1F0052FF7C /* 005-SCT.jpg */; };
-		A970311D1E676D1F0052FF7C /* 006-SCT.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A97031091E676D1F0052FF7C /* 006-SCT.jpg */; };
-		A970311E1E676D1F0052FF7C /* 007-SCT.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A970310A1E676D1F0052FF7C /* 007-SCT.jpg */; };
-		A970311F1E676D1F0052FF7C /* 008-SCT.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A970310B1E676D1F0052FF7C /* 008-SCT.jpg */; };
-		A97031201E676D1F0052FF7C /* 009-SCT.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A970310C1E676D1F0052FF7C /* 009-SCT.jpg */; };
-		A97031211E676D1F0052FF7C /* 010-SCT.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A970310D1E676D1F0052FF7C /* 010-SCT.jpg */; };
-		A97031221E676D1F0052FF7C /* 011-SCT.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A970310E1E676D1F0052FF7C /* 011-SCT.jpg */; };
+		A97113AD1E9C347A002D689C /* Button_Maps.png in Resources */ = {isa = PBXBuildFile; fileRef = A97113AC1E9C347A002D689C /* Button_Maps.png */; };
+		A97113B01E9C36B1002D689C /* Button_CDTMaps.png in Resources */ = {isa = PBXBuildFile; fileRef = A97113AE1E9C36B1002D689C /* Button_CDTMaps.png */; };
+		A97113B11E9C36B1002D689C /* Button_SICMaps.png in Resources */ = {isa = PBXBuildFile; fileRef = A97113AF1E9C36B1002D689C /* Button_SICMaps.png */; };
+		A97113B41E9C3843002D689C /* CubaCDT.png in Resources */ = {isa = PBXBuildFile; fileRef = A97113B21E9C3843002D689C /* CubaCDT.png */; };
+		A97113B51E9C3843002D689C /* CubaTrails.png in Resources */ = {isa = PBXBuildFile; fileRef = A97113B31E9C3843002D689C /* CubaTrails.png */; };
 		A988B0A71E82C06D00A35F2D /* Banner_Northeastern-01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A988B0A11E82C06D00A35F2D /* Banner_Northeastern-01.jpg */; };
 		A988B0A81E82C06D00A35F2D /* Banner_Northwestern-01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A988B0A21E82C06D00A35F2D /* Banner_Northwestern-01.jpg */; };
 		A988B0A91E82C06D00A35F2D /* Banner_Southeastern-01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A988B0A31E82C06D00A35F2D /* Banner_Southeastern-01.jpg */; };
@@ -152,26 +169,30 @@
 		A98AF5171E60D2C400E19929 /* 004-TI.png in Resources */ = {isa = PBXBuildFile; fileRef = A98AF4F41E60D2C400E19929 /* 004-TI.png */; };
 		A98AF5181E60D2C400E19929 /* 002-TI.png in Resources */ = {isa = PBXBuildFile; fileRef = A98AF4F51E60D2C400E19929 /* 002-TI.png */; };
 		A98AF5191E60D2C400E19929 /* 012-TI.png in Resources */ = {isa = PBXBuildFile; fileRef = A98AF4F61E60D2C400E19929 /* 012-TI.png */; };
-		A98AF51A1E60D2C400E19929 /* 003-TI.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A98AF4F71E60D2C400E19929 /* 003-TI.jpg */; };
-		A98AF51B1E60D2C400E19929 /* 005-TI.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A98AF4F81E60D2C400E19929 /* 005-TI.jpg */; };
-		A98AF51C1E60D2C400E19929 /* 006-TI.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A98AF4F91E60D2C400E19929 /* 006-TI.jpg */; };
-		A98AF51D1E60D2C400E19929 /* 007-TI.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A98AF4FA1E60D2C400E19929 /* 007-TI.jpg */; };
-		A98AF51E1E60D2C400E19929 /* 008-TI.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A98AF4FB1E60D2C400E19929 /* 008-TI.jpg */; };
-		A98AF51F1E60D2C400E19929 /* 010-TI.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A98AF4FC1E60D2C400E19929 /* 010-TI.jpg */; };
-		A98AF5201E60D2C400E19929 /* 011-TI.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A98AF4FD1E60D2C400E19929 /* 011-TI.jpg */; };
-		A98AF5211E60D2C400E19929 /* 013-TI.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A98AF4FE1E60D2C400E19929 /* 013-TI.jpg */; };
-		A98AF5221E60D2C400E19929 /* 001-TI.png in Resources */ = {isa = PBXBuildFile; fileRef = A98AF4FF1E60D2C400E19929 /* 001-TI.png */; };
 		A99117CB1E6DB9F900EB0C28 /* 008-RRR.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A99117CA1E6DB9F900EB0C28 /* 008-RRR.jpg */; };
+		A996547D1E9E8F6C0031CDCC /* CommunityOverview.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A99654771E9E8F6C0031CDCC /* CommunityOverview.jpg */; };
+		A996547E1E9E8F6C0031CDCC /* GrantCountyTrails.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A99654781E9E8F6C0031CDCC /* GrantCountyTrails.jpg */; };
+		A996547F1E9E8F6C0031CDCC /* RamblinRoundRaton_Updated.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A99654791E9E8F6C0031CDCC /* RamblinRoundRaton_Updated.jpg */; };
+		A99654801E9E8F6C0031CDCC /* StepIntoCuba_updated.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A996547A1E9E8F6C0031CDCC /* StepIntoCuba_updated.jpg */; };
+		A99654811E9E8F6C0031CDCC /* TulieTrails.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A996547B1E9E8F6C0031CDCC /* TulieTrails.jpg */; };
+		A99654821E9E8F6C0031CDCC /* VIVA Connects.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A996547C1E9E8F6C0031CDCC /* VIVA Connects.jpg */; };
+		A99654841E9E91940031CDCC /* GrantCountyTrails_updated.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A99654831E9E91940031CDCC /* GrantCountyTrails_updated.jpg */; };
+		A996548B1E9EB1420031CDCC /* CapulinMap.png in Resources */ = {isa = PBXBuildFile; fileRef = A99654861E9EB1420031CDCC /* CapulinMap.png */; };
+		A996548C1E9EB1420031CDCC /* RRR-City.png in Resources */ = {isa = PBXBuildFile; fileRef = A99654871E9EB1420031CDCC /* RRR-City.png */; };
+		A996548D1E9EB1420031CDCC /* RRR-Sat.png in Resources */ = {isa = PBXBuildFile; fileRef = A99654881E9EB1420031CDCC /* RRR-Sat.png */; };
+		A996548E1E9EB1420031CDCC /* RRR-Sugarite.png in Resources */ = {isa = PBXBuildFile; fileRef = A99654891E9EB1420031CDCC /* RRR-Sugarite.png */; };
+		A996548F1E9EB1420031CDCC /* SilverCityTrails.png in Resources */ = {isa = PBXBuildFile; fileRef = A996548A1E9EB1420031CDCC /* SilverCityTrails.png */; };
+		A99654931E9ED5DF0031CDCC /* Tulie-Overview.png in Resources */ = {isa = PBXBuildFile; fileRef = A99654921E9ED5DF0031CDCC /* Tulie-Overview.png */; };
 		A999336A1E807A0200D98FF2 /* iPad.png in Resources */ = {isa = PBXBuildFile; fileRef = A99933641E807A0200D98FF2 /* iPad.png */; };
 		A999336B1E807A0200D98FF2 /* iPad2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A99933651E807A0200D98FF2 /* iPad2x.png */; };
 		A999336C1E807A0200D98FF2 /* iPhone4.png in Resources */ = {isa = PBXBuildFile; fileRef = A99933661E807A0200D98FF2 /* iPhone4.png */; };
 		A999336D1E807A0200D98FF2 /* iPhone35.png in Resources */ = {isa = PBXBuildFile; fileRef = A99933671E807A0200D98FF2 /* iPhone35.png */; };
 		A999336E1E807A0200D98FF2 /* iPhone47.png in Resources */ = {isa = PBXBuildFile; fileRef = A99933681E807A0200D98FF2 /* iPhone47.png */; };
 		A999336F1E807A0200D98FF2 /* iPhone55.png in Resources */ = {isa = PBXBuildFile; fileRef = A99933691E807A0200D98FF2 /* iPhone55.png */; };
-		A999DE701E6881B6007EA3D7 /* 019-SCT.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A999DE6F1E6881B6007EA3D7 /* 019-SCT.jpg */; };
 		A99FC75E1E77026D002E7922 /* 5-CSCCT.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = A99FC75B1E77026D002E7922 /* 5-CSCCT.jpeg */; };
 		A99FC75F1E77026D002E7922 /* dogs-allowed.png in Resources */ = {isa = PBXBuildFile; fileRef = A99FC75C1E77026D002E7922 /* dogs-allowed.png */; };
 		A99FC7601E77026D002E7922 /* dogs-not-allowed.png in Resources */ = {isa = PBXBuildFile; fileRef = A99FC75D1E77026D002E7922 /* dogs-not-allowed.png */; };
+		A9A7B5741E9FC74500AE1345 /* ButtoniPad.png in Resources */ = {isa = PBXBuildFile; fileRef = A9A7B5731E9FC74500AE1345 /* ButtoniPad.png */; };
 		A9B9A26F1E69D36000CDD1A5 /* facebook-ios-logo.png in Resources */ = {isa = PBXBuildFile; fileRef = A9B9A26D1E69D36000CDD1A5 /* facebook-ios-logo.png */; };
 		A9B9A2701E69D36000CDD1A5 /* twitter.png in Resources */ = {isa = PBXBuildFile; fileRef = A9B9A26E1E69D36000CDD1A5 /* twitter.png */; };
 		A9B9A2721E6A05E600CDD1A5 /* 001-RRR.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A9B9A2711E6A05E600CDD1A5 /* 001-RRR.jpg */; };
@@ -180,6 +201,11 @@
 		A9BCA6A31E5CB7EF00584518 /* ALAViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A9BCA6A21E5CB7EF00584518 /* ALAViewController.m */; };
 		A9BCA6A71E5CBEEB00584518 /* RRRDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A9BCA6A61E5CBEEB00584518 /* RRRDetailViewController.m */; };
 		A9BDAA1A1CEA3B740017B176 /* 7-1-SCFG.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A9BDAA191CEA3B740017B176 /* 7-1-SCFG.jpg */; };
+		A9C433C31EA5183D006A61BE /* RatonMap.png in Resources */ = {isa = PBXBuildFile; fileRef = A9C433C21EA5183D006A61BE /* RatonMap.png */; };
+		A9C433C71EA51AA0006A61BE /* ContinentalDivideTrail.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A9C433C41EA51AA0006A61BE /* ContinentalDivideTrail.jpg */; };
+		A9C433C81EA51AA0006A61BE /* StepIntoCubaTrails.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A9C433C51EA51AA0006A61BE /* StepIntoCubaTrails.jpg */; };
+		A9C433C91EA51AA0006A61BE /* TrailsAreaMap.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A9C433C61EA51AA0006A61BE /* TrailsAreaMap.jpg */; };
+		A9C433CB1EA52C35006A61BE /* CubaBanner.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A9C433CA1EA52C35006A61BE /* CubaBanner.jpg */; };
 		A9EC06391E79825000D02758 /* facebook-ios-logo-black.png in Resources */ = {isa = PBXBuildFile; fileRef = A9EC06381E79825000D02758 /* facebook-ios-logo-black.png */; };
 		A9EC063C1E79862B00D02758 /* dogs-allowed-black.png in Resources */ = {isa = PBXBuildFile; fileRef = A9EC063A1E79862B00D02758 /* dogs-allowed-black.png */; };
 		A9EC063D1E79862B00D02758 /* dogs-not-allowed-black.png in Resources */ = {isa = PBXBuildFile; fileRef = A9EC063B1E79862B00D02758 /* dogs-not-allowed-black.png */; };
@@ -266,6 +292,37 @@
 		A94B6B0C1E64B6EE0083E735 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 		A94CCC461C1B2EF80043F7C1 /* guidelogos-1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "guidelogos-1.jpg"; sourceTree = "<group>"; };
 		A953250A1CCBEC8200F83C74 /* Map-7-1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Map-7-1.jpg"; sourceTree = "<group>"; };
+		A95554A91E942AB900A06479 /* 001-TI.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "001-TI.jpg"; sourceTree = "<group>"; };
+		A95554AA1E942AB900A06479 /* 003-TI.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "003-TI.png"; sourceTree = "<group>"; };
+		A95554AB1E942AB900A06479 /* 005-TI.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "005-TI.png"; sourceTree = "<group>"; };
+		A95554AC1E942AB900A06479 /* 006-TI.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "006-TI.png"; sourceTree = "<group>"; };
+		A95554AD1E942AB900A06479 /* 007-TI.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "007-TI.png"; sourceTree = "<group>"; };
+		A95554AE1E942AB900A06479 /* 008-TI.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "008-TI.png"; sourceTree = "<group>"; };
+		A95554AF1E942AB900A06479 /* 010-TI.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "010-TI.png"; sourceTree = "<group>"; };
+		A95554B01E942AB900A06479 /* 011-TI.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "011-TI.png"; sourceTree = "<group>"; };
+		A95554B11E942AB900A06479 /* 013-TI.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "013-TI.png"; sourceTree = "<group>"; };
+		A95554BB1E94357900A06479 /* 001-SCT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "001-SCT.png"; sourceTree = "<group>"; };
+		A95554BC1E94357900A06479 /* 002-SCT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "002-SCT.png"; sourceTree = "<group>"; };
+		A95554BD1E94357900A06479 /* 003-SCT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "003-SCT.png"; sourceTree = "<group>"; };
+		A95554BE1E94357900A06479 /* 004-SCT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "004-SCT.png"; sourceTree = "<group>"; };
+		A95554BF1E94357900A06479 /* 005-SCT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "005-SCT.png"; sourceTree = "<group>"; };
+		A95554C01E94357900A06479 /* 006-SCT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "006-SCT.png"; sourceTree = "<group>"; };
+		A95554C11E94357900A06479 /* 007-SCT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "007-SCT.png"; sourceTree = "<group>"; };
+		A95554C21E94357900A06479 /* 008-RRR.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "008-RRR.png"; sourceTree = "<group>"; };
+		A95554C31E94357900A06479 /* 008-SCT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "008-SCT.png"; sourceTree = "<group>"; };
+		A95554C41E94357900A06479 /* 009-SCT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "009-SCT.png"; sourceTree = "<group>"; };
+		A95554C51E94357900A06479 /* 010-SCT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "010-SCT.png"; sourceTree = "<group>"; };
+		A95554C61E94357900A06479 /* 011-SCT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "011-SCT.png"; sourceTree = "<group>"; };
+		A95554C71E94357900A06479 /* 012-SCT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "012-SCT.png"; sourceTree = "<group>"; };
+		A95554C81E94357900A06479 /* 013-SCT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "013-SCT.png"; sourceTree = "<group>"; };
+		A95554C91E94357900A06479 /* 014-SCT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "014-SCT.png"; sourceTree = "<group>"; };
+		A95554CA1E94357900A06479 /* 015-SCT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "015-SCT.png"; sourceTree = "<group>"; };
+		A95554CB1E94357900A06479 /* 016-SCT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "016-SCT.png"; sourceTree = "<group>"; };
+		A95554CC1E94357900A06479 /* 017-SCT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "017-SCT.png"; sourceTree = "<group>"; };
+		A95554CD1E94357900A06479 /* 019-SCT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "019-SCT.png"; sourceTree = "<group>"; };
+		A95554E31E9436DA00A06479 /* 018-SCT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "018-SCT.png"; sourceTree = "<group>"; };
+		A95554E51E9438E300A06479 /* 020-SCT.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "020-SCT.jpg"; sourceTree = "<group>"; };
+		A95554E71E94394700A06479 /* 020-SCT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "020-SCT.png"; sourceTree = "<group>"; };
 		A95CBD801E6DBEB100672514 /* RRRCover.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RRRCover.png; sourceTree = "<group>"; };
 		A95CBD821E6DCE7E00672514 /* 012-RRR.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "012-RRR.jpg"; sourceTree = "<group>"; };
 		A96C85081DD3797E004DAD9C /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -284,7 +341,6 @@
 		A97030D31E676CB20052FF7C /* 020-MapSCT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "020-MapSCT.png"; sourceTree = "<group>"; };
 		A97030D41E676CB20052FF7C /* 019-MapSCT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "019-MapSCT.png"; sourceTree = "<group>"; };
 		A97030D51E676CB20052FF7C /* 018-MapSCT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "018-MapSCT.png"; sourceTree = "<group>"; };
-		A97030D61E676CB20052FF7C /* 017-MapSCT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "017-MapSCT.png"; sourceTree = "<group>"; };
 		A97030D71E676CB20052FF7C /* 016-MapSCT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "016-MapSCT.png"; sourceTree = "<group>"; };
 		A97030D81E676CB20052FF7C /* 015-MapSCT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "015-MapSCT.png"; sourceTree = "<group>"; };
 		A97030D91E676CB20052FF7C /* 014-MapSCT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "014-MapSCT.png"; sourceTree = "<group>"; };
@@ -301,24 +357,11 @@
 		A97030E41E676CB20052FF7C /* 003-MapSCT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "003-MapSCT.png"; sourceTree = "<group>"; };
 		A97030E51E676CB20052FF7C /* 002-MapSCT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "002-MapSCT.png"; sourceTree = "<group>"; };
 		A97030E61E676CB20052FF7C /* 001-MapSCT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "001-MapSCT.png"; sourceTree = "<group>"; };
-		A97030FB1E676D1F0052FF7C /* 012-SCT.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "012-SCT.jpg"; sourceTree = "<group>"; };
-		A97030FC1E676D1F0052FF7C /* 013-SCT.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "013-SCT.jpg"; sourceTree = "<group>"; };
-		A97030FD1E676D1F0052FF7C /* 014-SCT.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "014-SCT.jpg"; sourceTree = "<group>"; };
-		A97030FE1E676D1F0052FF7C /* 015-SCT.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "015-SCT.jpg"; sourceTree = "<group>"; };
-		A97030FF1E676D1F0052FF7C /* 016-SCT.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "016-SCT.jpg"; sourceTree = "<group>"; };
-		A97031001E676D1F0052FF7C /* 017-SCT.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "017-SCT.jpg"; sourceTree = "<group>"; };
-		A97031011E676D1F0052FF7C /* 018-SCT.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "018-SCT.jpg"; sourceTree = "<group>"; };
-		A97031041E676D1F0052FF7C /* 001-SCT.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "001-SCT.jpg"; sourceTree = "<group>"; };
-		A97031051E676D1F0052FF7C /* 002-SCT.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "002-SCT.jpg"; sourceTree = "<group>"; };
-		A97031061E676D1F0052FF7C /* 003-SCT.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "003-SCT.jpg"; sourceTree = "<group>"; };
-		A97031071E676D1F0052FF7C /* 004-SCT.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "004-SCT.jpg"; sourceTree = "<group>"; };
-		A97031081E676D1F0052FF7C /* 005-SCT.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "005-SCT.jpg"; sourceTree = "<group>"; };
-		A97031091E676D1F0052FF7C /* 006-SCT.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "006-SCT.jpg"; sourceTree = "<group>"; };
-		A970310A1E676D1F0052FF7C /* 007-SCT.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "007-SCT.jpg"; sourceTree = "<group>"; };
-		A970310B1E676D1F0052FF7C /* 008-SCT.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "008-SCT.jpg"; sourceTree = "<group>"; };
-		A970310C1E676D1F0052FF7C /* 009-SCT.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "009-SCT.jpg"; sourceTree = "<group>"; };
-		A970310D1E676D1F0052FF7C /* 010-SCT.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "010-SCT.jpg"; sourceTree = "<group>"; };
-		A970310E1E676D1F0052FF7C /* 011-SCT.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "011-SCT.jpg"; sourceTree = "<group>"; };
+		A97113AC1E9C347A002D689C /* Button_Maps.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Button_Maps.png; path = Buttons/Button_Maps.png; sourceTree = "<group>"; };
+		A97113AE1E9C36B1002D689C /* Button_CDTMaps.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Button_CDTMaps.png; path = Buttons/Button_CDTMaps.png; sourceTree = "<group>"; };
+		A97113AF1E9C36B1002D689C /* Button_SICMaps.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Button_SICMaps.png; path = Buttons/Button_SICMaps.png; sourceTree = "<group>"; };
+		A97113B21E9C3843002D689C /* CubaCDT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CubaCDT.png; sourceTree = "<group>"; };
+		A97113B31E9C3843002D689C /* CubaTrails.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CubaTrails.png; sourceTree = "<group>"; };
 		A988B0A11E82C06D00A35F2D /* Banner_Northeastern-01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Banner_Northeastern-01.jpg"; sourceTree = "<group>"; };
 		A988B0A21E82C06D00A35F2D /* Banner_Northwestern-01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Banner_Northwestern-01.jpg"; sourceTree = "<group>"; };
 		A988B0A31E82C06D00A35F2D /* Banner_Southeastern-01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Banner_Southeastern-01.jpg"; sourceTree = "<group>"; };
@@ -408,26 +451,30 @@
 		A98AF4F41E60D2C400E19929 /* 004-TI.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "004-TI.png"; sourceTree = "<group>"; };
 		A98AF4F51E60D2C400E19929 /* 002-TI.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "002-TI.png"; sourceTree = "<group>"; };
 		A98AF4F61E60D2C400E19929 /* 012-TI.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "012-TI.png"; sourceTree = "<group>"; };
-		A98AF4F71E60D2C400E19929 /* 003-TI.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "003-TI.jpg"; sourceTree = "<group>"; };
-		A98AF4F81E60D2C400E19929 /* 005-TI.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "005-TI.jpg"; sourceTree = "<group>"; };
-		A98AF4F91E60D2C400E19929 /* 006-TI.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "006-TI.jpg"; sourceTree = "<group>"; };
-		A98AF4FA1E60D2C400E19929 /* 007-TI.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "007-TI.jpg"; sourceTree = "<group>"; };
-		A98AF4FB1E60D2C400E19929 /* 008-TI.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "008-TI.jpg"; sourceTree = "<group>"; };
-		A98AF4FC1E60D2C400E19929 /* 010-TI.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "010-TI.jpg"; sourceTree = "<group>"; };
-		A98AF4FD1E60D2C400E19929 /* 011-TI.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "011-TI.jpg"; sourceTree = "<group>"; };
-		A98AF4FE1E60D2C400E19929 /* 013-TI.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "013-TI.jpg"; sourceTree = "<group>"; };
-		A98AF4FF1E60D2C400E19929 /* 001-TI.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "001-TI.png"; sourceTree = "<group>"; };
 		A99117CA1E6DB9F900EB0C28 /* 008-RRR.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "008-RRR.jpg"; sourceTree = "<group>"; };
+		A99654771E9E8F6C0031CDCC /* CommunityOverview.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = CommunityOverview.jpg; path = Buttons/CommunityOverview.jpg; sourceTree = "<group>"; };
+		A99654781E9E8F6C0031CDCC /* GrantCountyTrails.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = GrantCountyTrails.jpg; path = Buttons/GrantCountyTrails.jpg; sourceTree = "<group>"; };
+		A99654791E9E8F6C0031CDCC /* RamblinRoundRaton_Updated.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = RamblinRoundRaton_Updated.jpg; path = Buttons/RamblinRoundRaton_Updated.jpg; sourceTree = "<group>"; };
+		A996547A1E9E8F6C0031CDCC /* StepIntoCuba_updated.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = StepIntoCuba_updated.jpg; path = Buttons/StepIntoCuba_updated.jpg; sourceTree = "<group>"; };
+		A996547B1E9E8F6C0031CDCC /* TulieTrails.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = TulieTrails.jpg; path = Buttons/TulieTrails.jpg; sourceTree = "<group>"; };
+		A996547C1E9E8F6C0031CDCC /* VIVA Connects.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "VIVA Connects.jpg"; path = "Buttons/VIVA Connects.jpg"; sourceTree = "<group>"; };
+		A99654831E9E91940031CDCC /* GrantCountyTrails_updated.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = GrantCountyTrails_updated.jpg; path = Buttons/GrantCountyTrails_updated.jpg; sourceTree = "<group>"; };
+		A99654861E9EB1420031CDCC /* CapulinMap.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = CapulinMap.png; path = Maps/CapulinMap.png; sourceTree = "<group>"; };
+		A99654871E9EB1420031CDCC /* RRR-City.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "RRR-City.png"; path = "Maps/RRR-City.png"; sourceTree = "<group>"; };
+		A99654881E9EB1420031CDCC /* RRR-Sat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "RRR-Sat.png"; path = "Maps/RRR-Sat.png"; sourceTree = "<group>"; };
+		A99654891E9EB1420031CDCC /* RRR-Sugarite.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "RRR-Sugarite.png"; path = "Maps/RRR-Sugarite.png"; sourceTree = "<group>"; };
+		A996548A1E9EB1420031CDCC /* SilverCityTrails.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SilverCityTrails.png; sourceTree = "<group>"; };
+		A99654921E9ED5DF0031CDCC /* Tulie-Overview.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Tulie-Overview.png"; path = "Maps/Tulie-Overview.png"; sourceTree = "<group>"; };
 		A99933641E807A0200D98FF2 /* iPad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = iPad.png; path = "Launch Images/iPad.png"; sourceTree = "<group>"; };
 		A99933651E807A0200D98FF2 /* iPad2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = iPad2x.png; path = "Launch Images/iPad2x.png"; sourceTree = "<group>"; };
 		A99933661E807A0200D98FF2 /* iPhone4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = iPhone4.png; path = "Launch Images/iPhone4.png"; sourceTree = "<group>"; };
 		A99933671E807A0200D98FF2 /* iPhone35.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = iPhone35.png; path = "Launch Images/iPhone35.png"; sourceTree = "<group>"; };
 		A99933681E807A0200D98FF2 /* iPhone47.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = iPhone47.png; path = "Launch Images/iPhone47.png"; sourceTree = "<group>"; };
 		A99933691E807A0200D98FF2 /* iPhone55.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = iPhone55.png; path = "Launch Images/iPhone55.png"; sourceTree = "<group>"; };
-		A999DE6F1E6881B6007EA3D7 /* 019-SCT.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "019-SCT.jpg"; sourceTree = "<group>"; };
 		A99FC75B1E77026D002E7922 /* 5-CSCCT.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "5-CSCCT.jpeg"; sourceTree = "<group>"; };
 		A99FC75C1E77026D002E7922 /* dogs-allowed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dogs-allowed.png"; sourceTree = "<group>"; };
 		A99FC75D1E77026D002E7922 /* dogs-not-allowed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dogs-not-allowed.png"; sourceTree = "<group>"; };
+		A9A7B5731E9FC74500AE1345 /* ButtoniPad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ButtoniPad.png; path = Buttons/ButtoniPad.png; sourceTree = "<group>"; };
 		A9B9A26D1E69D36000CDD1A5 /* facebook-ios-logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "facebook-ios-logo.png"; sourceTree = "<group>"; };
 		A9B9A26E1E69D36000CDD1A5 /* twitter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = twitter.png; sourceTree = "<group>"; };
 		A9B9A2711E6A05E600CDD1A5 /* 001-RRR.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "001-RRR.jpg"; sourceTree = "<group>"; };
@@ -440,6 +487,11 @@
 		A9BCA6A51E5CBEE000584518 /* ALADetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ALADetailViewController.h; sourceTree = "<group>"; };
 		A9BCA6A61E5CBEEB00584518 /* RRRDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RRRDetailViewController.m; sourceTree = "<group>"; };
 		A9BDAA191CEA3B740017B176 /* 7-1-SCFG.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "7-1-SCFG.jpg"; sourceTree = "<group>"; };
+		A9C433C21EA5183D006A61BE /* RatonMap.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = RatonMap.png; path = Maps/RatonMap.png; sourceTree = "<group>"; };
+		A9C433C41EA51AA0006A61BE /* ContinentalDivideTrail.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = ContinentalDivideTrail.jpg; path = Buttons/ContinentalDivideTrail.jpg; sourceTree = "<group>"; };
+		A9C433C51EA51AA0006A61BE /* StepIntoCubaTrails.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = StepIntoCubaTrails.jpg; path = Buttons/StepIntoCubaTrails.jpg; sourceTree = "<group>"; };
+		A9C433C61EA51AA0006A61BE /* TrailsAreaMap.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = TrailsAreaMap.jpg; path = Buttons/TrailsAreaMap.jpg; sourceTree = "<group>"; };
+		A9C433CA1EA52C35006A61BE /* CubaBanner.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = CubaBanner.jpg; sourceTree = "<group>"; };
 		A9EC06381E79825000D02758 /* facebook-ios-logo-black.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "facebook-ios-logo-black.png"; sourceTree = "<group>"; };
 		A9EC063A1E79862B00D02758 /* dogs-allowed-black.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dogs-allowed-black.png"; sourceTree = "<group>"; };
 		A9EC063B1E79862B00D02758 /* dogs-not-allowed-black.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dogs-not-allowed-black.png"; sourceTree = "<group>"; };
@@ -531,25 +583,28 @@
 		A927D7C41E7C49B50038B5E0 /* SCT Images */ = {
 			isa = PBXGroup;
 			children = (
-				A999DE6F1E6881B6007EA3D7 /* 019-SCT.jpg */,
-				A97030FB1E676D1F0052FF7C /* 012-SCT.jpg */,
-				A97030FC1E676D1F0052FF7C /* 013-SCT.jpg */,
-				A97030FD1E676D1F0052FF7C /* 014-SCT.jpg */,
-				A97030FE1E676D1F0052FF7C /* 015-SCT.jpg */,
-				A97030FF1E676D1F0052FF7C /* 016-SCT.jpg */,
-				A97031001E676D1F0052FF7C /* 017-SCT.jpg */,
-				A97031011E676D1F0052FF7C /* 018-SCT.jpg */,
-				A97031041E676D1F0052FF7C /* 001-SCT.jpg */,
-				A97031051E676D1F0052FF7C /* 002-SCT.jpg */,
-				A97031061E676D1F0052FF7C /* 003-SCT.jpg */,
-				A97031071E676D1F0052FF7C /* 004-SCT.jpg */,
-				A97031081E676D1F0052FF7C /* 005-SCT.jpg */,
-				A97031091E676D1F0052FF7C /* 006-SCT.jpg */,
-				A970310A1E676D1F0052FF7C /* 007-SCT.jpg */,
-				A970310B1E676D1F0052FF7C /* 008-SCT.jpg */,
-				A970310C1E676D1F0052FF7C /* 009-SCT.jpg */,
-				A970310D1E676D1F0052FF7C /* 010-SCT.jpg */,
-				A970310E1E676D1F0052FF7C /* 011-SCT.jpg */,
+				A95554E71E94394700A06479 /* 020-SCT.png */,
+				A95554E51E9438E300A06479 /* 020-SCT.jpg */,
+				A95554E31E9436DA00A06479 /* 018-SCT.png */,
+				A95554BB1E94357900A06479 /* 001-SCT.png */,
+				A95554BC1E94357900A06479 /* 002-SCT.png */,
+				A95554BD1E94357900A06479 /* 003-SCT.png */,
+				A95554BE1E94357900A06479 /* 004-SCT.png */,
+				A95554BF1E94357900A06479 /* 005-SCT.png */,
+				A95554C01E94357900A06479 /* 006-SCT.png */,
+				A95554C11E94357900A06479 /* 007-SCT.png */,
+				A95554C21E94357900A06479 /* 008-RRR.png */,
+				A95554C31E94357900A06479 /* 008-SCT.png */,
+				A95554C41E94357900A06479 /* 009-SCT.png */,
+				A95554C51E94357900A06479 /* 010-SCT.png */,
+				A95554C61E94357900A06479 /* 011-SCT.png */,
+				A95554C71E94357900A06479 /* 012-SCT.png */,
+				A95554C81E94357900A06479 /* 013-SCT.png */,
+				A95554C91E94357900A06479 /* 014-SCT.png */,
+				A95554CA1E94357900A06479 /* 015-SCT.png */,
+				A95554CB1E94357900A06479 /* 016-SCT.png */,
+				A95554CC1E94357900A06479 /* 017-SCT.png */,
+				A95554CD1E94357900A06479 /* 019-SCT.png */,
 			);
 			name = "SCT Images";
 			sourceTree = "<group>";
@@ -567,26 +622,8 @@
 		A927D7C61E7C49DC0038B5E0 /* SCT Maps */ = {
 			isa = PBXGroup;
 			children = (
-				A97030D31E676CB20052FF7C /* 020-MapSCT.png */,
-				A97030D41E676CB20052FF7C /* 019-MapSCT.png */,
-				A97030D51E676CB20052FF7C /* 018-MapSCT.png */,
-				A97030D61E676CB20052FF7C /* 017-MapSCT.png */,
-				A97030D71E676CB20052FF7C /* 016-MapSCT.png */,
-				A97030D81E676CB20052FF7C /* 015-MapSCT.png */,
-				A97030D91E676CB20052FF7C /* 014-MapSCT.png */,
-				A97030DA1E676CB20052FF7C /* 013-MapSCT.png */,
-				A97030DB1E676CB20052FF7C /* 012-MapSCT.png */,
-				A97030DC1E676CB20052FF7C /* 011-MapSCT.png */,
-				A97030DD1E676CB20052FF7C /* 010-MapSCT.png */,
-				A97030DE1E676CB20052FF7C /* 009-MapSCT.png */,
-				A97030DF1E676CB20052FF7C /* 008-MapSCT.png */,
-				A97030E01E676CB20052FF7C /* 007-MapSCT.png */,
-				A97030E11E676CB20052FF7C /* 006-MapSCT.png */,
-				A97030E21E676CB20052FF7C /* 005-MapSCT.png */,
-				A97030E31E676CB20052FF7C /* 004-MapSCT.png */,
-				A97030E41E676CB20052FF7C /* 003-MapSCT.png */,
-				A97030E51E676CB20052FF7C /* 002-MapSCT.png */,
-				A97030E61E676CB20052FF7C /* 001-MapSCT.png */,
+				A996548A1E9EB1420031CDCC /* SilverCityTrails.png */,
+				A99654911E9ED5AC0031CDCC /* Grant County Maps */,
 			);
 			name = "SCT Maps";
 			sourceTree = "<group>";
@@ -594,6 +631,8 @@
 		A927D7C71E7C49E70038B5E0 /* Cuba Maps */ = {
 			isa = PBXGroup;
 			children = (
+				A97113B21E9C3843002D689C /* CubaCDT.png */,
+				A97113B31E9C3843002D689C /* CubaTrails.png */,
 				A953250A1CCBEC8200F83C74 /* Map-7-1.jpg */,
 				E90846D21A1FCB3400A969FF /* Map-5-1.jpg */,
 				E94D44A5199AF7960062590E /* Map-1.jpg */,
@@ -612,6 +651,7 @@
 		A927D7C81E7C4A5E0038B5E0 /* Banners */ = {
 			isa = PBXGroup;
 			children = (
+				A9C433CA1EA52C35006A61BE /* CubaBanner.jpg */,
 				A98A65901E8433B900558CA4 /* GuideLogo.png */,
 				A98A658C1E84195400558CA4 /* Connects-text.png */,
 				A988B0AD1E82E9FA00A35F2D /* Banner_Northeastern-01 Icon.jpeg */,
@@ -657,6 +697,20 @@
 		A927D7CB1E7C4AB90038B5E0 /* Buttons */ = {
 			isa = PBXGroup;
 			children = (
+				A9C433C41EA51AA0006A61BE /* ContinentalDivideTrail.jpg */,
+				A9C433C51EA51AA0006A61BE /* StepIntoCubaTrails.jpg */,
+				A9C433C61EA51AA0006A61BE /* TrailsAreaMap.jpg */,
+				A9A7B5731E9FC74500AE1345 /* ButtoniPad.png */,
+				A99654831E9E91940031CDCC /* GrantCountyTrails_updated.jpg */,
+				A99654771E9E8F6C0031CDCC /* CommunityOverview.jpg */,
+				A99654781E9E8F6C0031CDCC /* GrantCountyTrails.jpg */,
+				A99654791E9E8F6C0031CDCC /* RamblinRoundRaton_Updated.jpg */,
+				A996547A1E9E8F6C0031CDCC /* StepIntoCuba_updated.jpg */,
+				A996547B1E9E8F6C0031CDCC /* TulieTrails.jpg */,
+				A996547C1E9E8F6C0031CDCC /* VIVA Connects.jpg */,
+				A97113AE1E9C36B1002D689C /* Button_CDTMaps.png */,
+				A97113AF1E9C36B1002D689C /* Button_SICMaps.png */,
+				A97113AC1E9C347A002D689C /* Button_Maps.png */,
 				A98A658E1E84284B00558CA4 /* NM-Icon.png */,
 				A988B0B71E8323A100A35F2D /* Button_AdditionalResources.jpg */,
 				A988B0B81E8323A100A35F2D /* Button_GrantCountyTrails.jpg */,
@@ -794,24 +848,65 @@
 		A927D7D31E7C4C4C0038B5E0 /* Tulie Images */ = {
 			isa = PBXGroup;
 			children = (
+				A95554A91E942AB900A06479 /* 001-TI.jpg */,
+				A95554AA1E942AB900A06479 /* 003-TI.png */,
+				A95554AB1E942AB900A06479 /* 005-TI.png */,
+				A95554AC1E942AB900A06479 /* 006-TI.png */,
+				A95554AD1E942AB900A06479 /* 007-TI.png */,
+				A95554AE1E942AB900A06479 /* 008-TI.png */,
+				A95554AF1E942AB900A06479 /* 010-TI.png */,
+				A95554B01E942AB900A06479 /* 011-TI.png */,
+				A95554B11E942AB900A06479 /* 013-TI.png */,
 				A98AF4F31E60D2C400E19929 /* 009-TI.png */,
 				A98AF4F41E60D2C400E19929 /* 004-TI.png */,
 				A98AF4F51E60D2C400E19929 /* 002-TI.png */,
 				A98AF4F61E60D2C400E19929 /* 012-TI.png */,
-				A98AF4F71E60D2C400E19929 /* 003-TI.jpg */,
-				A98AF4F81E60D2C400E19929 /* 005-TI.jpg */,
-				A98AF4F91E60D2C400E19929 /* 006-TI.jpg */,
-				A98AF4FA1E60D2C400E19929 /* 007-TI.jpg */,
-				A98AF4FB1E60D2C400E19929 /* 008-TI.jpg */,
-				A98AF4FC1E60D2C400E19929 /* 010-TI.jpg */,
-				A98AF4FD1E60D2C400E19929 /* 011-TI.jpg */,
-				A98AF4FE1E60D2C400E19929 /* 013-TI.jpg */,
-				A98AF4FF1E60D2C400E19929 /* 001-TI.png */,
 			);
 			name = "Tulie Images";
 			sourceTree = "<group>";
 		};
 		A927D7D41E7C4C5D0038B5E0 /* RRR Maps */ = {
+			isa = PBXGroup;
+			children = (
+				A9C433C21EA5183D006A61BE /* RatonMap.png */,
+				A99654861E9EB1420031CDCC /* CapulinMap.png */,
+				A99654871E9EB1420031CDCC /* RRR-City.png */,
+				A99654881E9EB1420031CDCC /* RRR-Sat.png */,
+				A99654891E9EB1420031CDCC /* RRR-Sugarite.png */,
+				A99654851E9EB11F0031CDCC /* Trail Maps */,
+			);
+			name = "RRR Maps";
+			path = ..;
+			sourceTree = "<group>";
+		};
+		A927D7D51E7C4C830038B5E0 /* Tulie Maps */ = {
+			isa = PBXGroup;
+			children = (
+				A99654901E9EB15A0031CDCC /* Trail Maps */,
+			);
+			name = "Tulie Maps";
+			path = ..;
+			sourceTree = "<group>";
+		};
+		A927D7D61E7C4D0E0038B5E0 /* Cuba Images */ = {
+			isa = PBXGroup;
+			children = (
+				A9BDAA191CEA3B740017B176 /* 7-1-SCFG.jpg */,
+				E90846D41A1FCB4A00A969FF /* 5-1-BLM.JPG */,
+				E93E0AE91997CCAF007B4C57 /* 1-Sidewalks.JPG */,
+				E93E0AEA1997CCAF007B4C57 /* 2-VillageLoop.jpg */,
+				E93E0AEB1997CCAF007B4C57 /* 3-LibraryLoop.JPG */,
+				E93E0AEC1997CCAF007B4C57 /* 4-ParkTrail.JPG */,
+				A99FC75B1E77026D002E7922 /* 5-CSCCT.jpeg */,
+				E93E0AEE1997CCAF007B4C57 /* 6-Fisher.JPG */,
+				E93E0AEF1997CCAF007B4C57 /* 7-RSJ.jpg */,
+				E93E0AF01997CCAF007B4C57 /* 8-LosPinosTrail.JPG */,
+				E93E0AF11997CCAF007B4C57 /* 9-SouthCDT.jpg */,
+			);
+			name = "Cuba Images";
+			sourceTree = "<group>";
+		};
+		A99654851E9EB11F0031CDCC /* Trail Maps */ = {
 			isa = PBXGroup;
 			children = (
 				A98AF4971E60A99300E19929 /* 022-RRR.png */,
@@ -837,13 +932,13 @@
 				A98AF4AB1E60A99300E19929 /* 002-RRR.png */,
 				A98AF4AC1E60A99300E19929 /* 001-RRR.png */,
 			);
-			name = "RRR Maps";
-			path = ..;
+			name = "Trail Maps";
 			sourceTree = "<group>";
 		};
-		A927D7D51E7C4C830038B5E0 /* Tulie Maps */ = {
+		A99654901E9EB15A0031CDCC /* Trail Maps */ = {
 			isa = PBXGroup;
 			children = (
+				A99654921E9ED5DF0031CDCC /* Tulie-Overview.png */,
 				A98AF4AD1E60A99300E19929 /* 003-ALA.png */,
 				A98AF4AE1E60A99300E19929 /* 004-ALA.png */,
 				A98AF4AF1E60A99300E19929 /* 005-ALA.png */,
@@ -858,26 +953,33 @@
 				A98AF4B81E60A99300E19929 /* 002-ALA.png */,
 				A98AF4B91E60A99300E19929 /* 001-ALA.png */,
 			);
-			name = "Tulie Maps";
-			path = ..;
+			name = "Trail Maps";
 			sourceTree = "<group>";
 		};
-		A927D7D61E7C4D0E0038B5E0 /* Cuba Images */ = {
+		A99654911E9ED5AC0031CDCC /* Grant County Maps */ = {
 			isa = PBXGroup;
 			children = (
-				A9BDAA191CEA3B740017B176 /* 7-1-SCFG.jpg */,
-				E90846D41A1FCB4A00A969FF /* 5-1-BLM.JPG */,
-				E93E0AE91997CCAF007B4C57 /* 1-Sidewalks.JPG */,
-				E93E0AEA1997CCAF007B4C57 /* 2-VillageLoop.jpg */,
-				E93E0AEB1997CCAF007B4C57 /* 3-LibraryLoop.JPG */,
-				E93E0AEC1997CCAF007B4C57 /* 4-ParkTrail.JPG */,
-				A99FC75B1E77026D002E7922 /* 5-CSCCT.jpeg */,
-				E93E0AEE1997CCAF007B4C57 /* 6-Fisher.JPG */,
-				E93E0AEF1997CCAF007B4C57 /* 7-RSJ.jpg */,
-				E93E0AF01997CCAF007B4C57 /* 8-LosPinosTrail.JPG */,
-				E93E0AF11997CCAF007B4C57 /* 9-SouthCDT.jpg */,
+				A97030D31E676CB20052FF7C /* 020-MapSCT.png */,
+				A97030D41E676CB20052FF7C /* 019-MapSCT.png */,
+				A97030D51E676CB20052FF7C /* 018-MapSCT.png */,
+				A97030D71E676CB20052FF7C /* 016-MapSCT.png */,
+				A97030D81E676CB20052FF7C /* 015-MapSCT.png */,
+				A97030D91E676CB20052FF7C /* 014-MapSCT.png */,
+				A97030DA1E676CB20052FF7C /* 013-MapSCT.png */,
+				A97030DB1E676CB20052FF7C /* 012-MapSCT.png */,
+				A97030DC1E676CB20052FF7C /* 011-MapSCT.png */,
+				A97030DD1E676CB20052FF7C /* 010-MapSCT.png */,
+				A97030DE1E676CB20052FF7C /* 009-MapSCT.png */,
+				A97030DF1E676CB20052FF7C /* 008-MapSCT.png */,
+				A97030E01E676CB20052FF7C /* 007-MapSCT.png */,
+				A97030E11E676CB20052FF7C /* 006-MapSCT.png */,
+				A97030E21E676CB20052FF7C /* 005-MapSCT.png */,
+				A97030E31E676CB20052FF7C /* 004-MapSCT.png */,
+				A97030E41E676CB20052FF7C /* 003-MapSCT.png */,
+				A97030E51E676CB20052FF7C /* 002-MapSCT.png */,
+				A97030E61E676CB20052FF7C /* 001-MapSCT.png */,
 			);
-			name = "Cuba Images";
+			name = "Grant County Maps";
 			sourceTree = "<group>";
 		};
 		E90846D01A1F9AAF00A969FF /* Images */ = {
@@ -1101,63 +1203,71 @@
 				A98AF4C61E60A99300E19929 /* 010-RRR.png in Resources */,
 				A99FC75E1E77026D002E7922 /* 5-CSCCT.jpeg in Resources */,
 				A98AF4C01E60A99300E19929 /* 016-RRR.png in Resources */,
+				A996548B1E9EB1420031CDCC /* CapulinMap.png in Resources */,
 				E94D44C9199D4D180062590E /* iPad-1X-29pt.png in Resources */,
 				A98AF4C71E60A99300E19929 /* 009-RRR.png in Resources */,
-				A98AF5221E60D2C400E19929 /* 001-TI.png in Resources */,
 				A98AF4CD1E60A99300E19929 /* 003-RRR.png in Resources */,
 				A9EC06391E79825000D02758 /* facebook-ios-logo-black.png in Resources */,
 				A98AF4BD1E60A99300E19929 /* 019-RRR.png in Resources */,
-				A970311E1E676D1F0052FF7C /* 007-SCT.jpg in Resources */,
 				E90899BD198AC9A100578975 /* Main_iPad.storyboard in Resources */,
 				A988B0BF1E8323A100A35F2D /* Button_GrantCountyTrails.jpg in Resources */,
-				A98AF51E1E60D2C400E19929 /* 008-TI.jpg in Resources */,
 				A999336E1E807A0200D98FF2 /* iPhone47.png in Resources */,
 				A97030EE1E676CB20052FF7C /* 013-MapSCT.png in Resources */,
-				A98AF51F1E60D2C400E19929 /* 010-TI.jpg in Resources */,
-				A97031121E676D1F0052FF7C /* 015-SCT.jpg in Resources */,
-				A97030EA1E676CB20052FF7C /* 017-MapSCT.png in Resources */,
 				A98AF5151E60D2C400E19929 /* 022-RRR.jpg in Resources */,
 				A97030FA1E676CB20052FF7C /* 001-MapSCT.png in Resources */,
 				A9EC063D1E79862B00D02758 /* dogs-not-allowed-black.png in Resources */,
+				A95554D11E94357900A06479 /* 003-SCT.png in Resources */,
 				A999336B1E807A0200D98FF2 /* iPad2x.png in Resources */,
+				A95554BA1E942AB900A06479 /* 013-TI.png in Resources */,
 				A98AF4C41E60A99300E19929 /* 012-RRR.png in Resources */,
 				A94B6B031E649CDF0083E735 /* NM-Map-SW.png in Resources */,
 				A988B0C11E8323A100A35F2D /* Button_StepIntoCuba.jpg in Resources */,
-				A98AF51C1E60D2C400E19929 /* 006-TI.jpg in Resources */,
 				A98AF5031E60D2C400E19929 /* 004-RRR.jpg in Resources */,
 				A999336D1E807A0200D98FF2 /* iPhone35.png in Resources */,
 				A98AF4D11E60A99300E19929 /* 004-ALA.png in Resources */,
 				A97030D21E6730620052FF7C /* SCT-GuideCover.png in Resources */,
 				A9B9A2721E6A05E600CDD1A5 /* 001-RRR.jpg in Resources */,
+				A95554E81E94394700A06479 /* 020-SCT.png in Resources */,
 				A98AF4DB1E60A99300E19929 /* 002-ALA.png in Resources */,
+				A95554B21E942AB900A06479 /* 001-TI.jpg in Resources */,
+				A97113B11E9C36B1002D689C /* Button_SICMaps.png in Resources */,
 				A988B0C31E8323A100A35F2D /* Button_VIVAConnect.jpg in Resources */,
+				A95554B61E942AB900A06479 /* 007-TI.png in Resources */,
+				A95554D81E94357900A06479 /* 009-SCT.png in Resources */,
 				E93E0AF31997CCAF007B4C57 /* 2-VillageLoop.jpg in Resources */,
 				A98AF4D51E60A99300E19929 /* 008-ALA.png in Resources */,
 				E94D44CB199D4D180062590E /* iPhone-60pt.png in Resources */,
 				A988B0C01E8323A100A35F2D /* Button_RamblinRoundRaton.jpg in Resources */,
 				A97030F21E676CB20052FF7C /* 009-MapSCT.png in Resources */,
+				A97113AD1E9C347A002D689C /* Button_Maps.png in Resources */,
+				A9C433CB1EA52C35006A61BE /* CubaBanner.jpg in Resources */,
 				A98AF5191E60D2C400E19929 /* 012-TI.png in Resources */,
 				E9FCE2A11A1289B800066292 /* iPhone47.storyboard in Resources */,
+				A95554B81E942AB900A06479 /* 010-TI.png in Resources */,
+				A95554D71E94357900A06479 /* 008-SCT.png in Resources */,
+				A95554B31E942AB900A06479 /* 003-TI.png in Resources */,
 				A98AF4D31E60A99300E19929 /* 006-ALA.png in Resources */,
+				A99654801E9E8F6C0031CDCC /* StepIntoCuba_updated.jpg in Resources */,
 				A98AF4CF1E60A99300E19929 /* 001-RRR.png in Resources */,
 				A98AF5161E60D2C400E19929 /* 009-TI.png in Resources */,
 				E93E0AFD1997CF8A007B4C57 /* dogs-allowed.jpg in Resources */,
 				A98AF5061E60D2C400E19929 /* 007-RRR.jpg in Resources */,
 				E90899C2198AC9A100578975 /* Images.xcassets in Resources */,
 				A97030EC1E676CB20052FF7C /* 015-MapSCT.png in Resources */,
-				A98AF51D1E60D2C400E19929 /* 007-TI.jpg in Resources */,
 				A95CBD831E6DCE7E00672514 /* 012-RRR.jpg in Resources */,
 				A94B6AFD1E648C620083E735 /* TTSplash.png in Resources */,
 				A98AF4BC1E60A99300E19929 /* 020-RRR.png in Resources */,
+				A95554D21E94357900A06479 /* 004-SCT.png in Resources */,
 				A98AF4C31E60A99300E19929 /* 013-RRR.png in Resources */,
 				A97030F01E676CB20052FF7C /* 011-MapSCT.png in Resources */,
 				A97030F91E676CB20052FF7C /* 002-MapSCT.png in Resources */,
+				A95554D31E94357900A06479 /* 005-SCT.png in Resources */,
 				A97030F31E676CB20052FF7C /* 008-MapSCT.png in Resources */,
+				A95554D41E94357900A06479 /* 006-SCT.png in Resources */,
 				E90846D51A1FCB4A00A969FF /* 5-1-BLM.JPG in Resources */,
 				A99FC7601E77026D002E7922 /* dogs-not-allowed.png in Resources */,
 				E90899BA198AC9A100578975 /* iPhone4.storyboard in Resources */,
 				A98AF50F1E60D2C400E19929 /* 016-RRR.jpg in Resources */,
-				A970310F1E676D1F0052FF7C /* 012-SCT.jpg in Resources */,
 				A98AF4C21E60A99300E19929 /* 014-RRR.png in Resources */,
 				E94D44CA199D4D180062590E /* iPad-2x76pt.png in Resources */,
 				A988B0B41E82E9FA00A35F2D /* Banner_Southeastern Icon.png in Resources */,
@@ -1166,43 +1276,53 @@
 				A999336F1E807A0200D98FF2 /* iPhone55.png in Resources */,
 				E93E0AF51997CCAF007B4C57 /* 4-ParkTrail.JPG in Resources */,
 				A98AF4CB1E60A99300E19929 /* 005-RRR.png in Resources */,
+				A95554D61E94357900A06479 /* 008-RRR.png in Resources */,
 				A97030E81E676CB20052FF7C /* 019-MapSCT.png in Resources */,
 				A999336A1E807A0200D98FF2 /* iPad.png in Resources */,
-				A98AF51B1E60D2C400E19929 /* 005-TI.jpg in Resources */,
 				A98AF4D71E60A99300E19929 /* 010-ALA.png in Resources */,
 				A98AF50E1E60D2C400E19929 /* 015-RRR.jpg in Resources */,
+				A996547E1E9E8F6C0031CDCC /* GrantCountyTrails.jpg in Resources */,
 				A988B0A71E82C06D00A35F2D /* Banner_Northeastern-01.jpg in Resources */,
 				A988B0A91E82C06D00A35F2D /* Banner_Southeastern-01.jpg in Resources */,
-				A98AF5211E60D2C400E19929 /* 013-TI.jpg in Resources */,
 				E93E0AFA1997CCAF007B4C57 /* 9-SouthCDT.jpg in Resources */,
 				E94D44B1199AF7960062590E /* Map-4.jpg in Resources */,
 				A98AF4CC1E60A99300E19929 /* 004-RRR.png in Resources */,
+				A996548C1E9EB1420031CDCC /* RRR-City.png in Resources */,
 				A98AF4C51E60A99300E19929 /* 011-RRR.png in Resources */,
+				A95554DB1E94357900A06479 /* 012-SCT.png in Resources */,
+				A95554E11E94357900A06479 /* 019-SCT.png in Resources */,
+				A996548E1E9EB1420031CDCC /* RRR-Sugarite.png in Resources */,
 				A98AF4DC1E60A99300E19929 /* 001-ALA.png in Resources */,
 				A98AF4BA1E60A99300E19929 /* 022-RRR.png in Resources */,
+				A9C433C81EA51AA0006A61BE /* StepIntoCubaTrails.jpg in Resources */,
 				A988B0BE1E8323A100A35F2D /* Button_AdditionalResources.jpg in Resources */,
 				E9FCE29E1A12897B00066292 /* iPhone55.storyboard in Resources */,
-				A97031181E676D1F0052FF7C /* 001-SCT.jpg in Resources */,
+				A9C433C31EA5183D006A61BE /* RatonMap.png in Resources */,
 				A98A658D1E84195400558CA4 /* Connects-text.png in Resources */,
+				A95554D51E94357900A06479 /* 007-SCT.png in Resources */,
+				A95554B71E942AB900A06479 /* 008-TI.png in Resources */,
 				A98AF5131E60D2C400E19929 /* 020-RRR.jpg in Resources */,
-				A97031201E676D1F0052FF7C /* 009-SCT.jpg in Resources */,
+				A95554B91E942AB900A06479 /* 011-TI.png in Resources */,
 				A988B0B31E82E9FA00A35F2D /* Banner_Northwestern-01 Icon.jpg in Resources */,
 				A98AF4C11E60A99300E19929 /* 015-RRR.png in Resources */,
 				A98AEF0D1E7ADCCB00EB4D20 /* Button_v1_with_arrow_v3.jpg in Resources */,
-				A97031101E676D1F0052FF7C /* 013-SCT.jpg in Resources */,
+				A99654821E9E8F6C0031CDCC /* VIVA Connects.jpg in Resources */,
 				E94D44CD199D4D180062590E /* Spotlight-40pt.png in Resources */,
+				A996547F1E9E8F6C0031CDCC /* RamblinRoundRaton_Updated.jpg in Resources */,
 				A98A658F1E84284B00558CA4 /* NM-Icon.png in Resources */,
-				A98AF51A1E60D2C400E19929 /* 003-TI.jpg in Resources */,
 				A98AF4C91E60A99300E19929 /* 007-RRR.png in Resources */,
 				E94D44B5199AF7960062590E /* Map-8.jpg in Resources */,
+				A95554CF1E94357900A06479 /* 001-SCT.png in Resources */,
 				A94B6B021E649CDF0083E735 /* NM-Map-SE.png in Resources */,
+				A95554B41E942AB900A06479 /* 005-TI.png in Resources */,
 				A95CBD811E6DBEB100672514 /* RRRCover.png in Resources */,
 				A98AF5081E60D2C400E19929 /* 009-RRR.jpg in Resources */,
 				E93E0AFE1997CF8A007B4C57 /* dogs-not-allowed.jpg in Resources */,
+				A996548F1E9EB1420031CDCC /* SilverCityTrails.png in Resources */,
 				A9BDAA1A1CEA3B740017B176 /* 7-1-SCFG.jpg in Resources */,
+				A95554DD1E94357900A06479 /* 014-SCT.png in Resources */,
 				A9EC063F1E79CADF00D02758 /* Directions.png in Resources */,
 				A98AEF0B1E7ADBF700EB4D20 /* Button_v3.jpg in Resources */,
-				A97031111E676D1F0052FF7C /* 014-SCT.jpg in Resources */,
 				A98AF50C1E60D2C400E19929 /* 013-RRR.jpg in Resources */,
 				A9B9A2741E6A065F00CDD1A5 /* 003-RRR.jpg in Resources */,
 				A98A65911E8433B900558CA4 /* GuideLogo.png in Resources */,
@@ -1211,42 +1331,46 @@
 				E90846D31A1FCB3400A969FF /* Map-5-1.jpg in Resources */,
 				A988B0C21E8323A100A35F2D /* Button_TulieTrails.jpg in Resources */,
 				E94D44CC199D4D180062590E /* iPhone-Settings-29pt.png in Resources */,
-				A97031221E676D1F0052FF7C /* 011-SCT.jpg in Resources */,
-				A999DE701E6881B6007EA3D7 /* 019-SCT.jpg in Resources */,
 				E9089C771994189300578975 /* GuideLogo.jpg in Resources */,
 				A98AF50A1E60D2C400E19929 /* 011-RRR.jpg in Resources */,
+				A95554E01E94357900A06479 /* 017-SCT.png in Resources */,
 				E93E0AF21997CCAF007B4C57 /* 1-Sidewalks.JPG in Resources */,
 				A97030F51E676CB20052FF7C /* 006-MapSCT.png in Resources */,
 				A988B0A81E82C06D00A35F2D /* Banner_Northwestern-01.jpg in Resources */,
 				A98AF4D01E60A99300E19929 /* 003-ALA.png in Resources */,
 				A97030F11E676CB20052FF7C /* 010-MapSCT.png in Resources */,
-				A97031211E676D1F0052FF7C /* 010-SCT.jpg in Resources */,
 				A988B0AC1E82C06D00A35F2D /* NewBanner-01.jpg in Resources */,
-				A97031141E676D1F0052FF7C /* 017-SCT.jpg in Resources */,
 				A98AF4D21E60A99300E19929 /* 005-ALA.png in Resources */,
 				A9B9A26F1E69D36000CDD1A5 /* facebook-ios-logo.png in Resources */,
 				A98AF4D41E60A99300E19929 /* 007-ALA.png in Resources */,
+				A996548D1E9EB1420031CDCC /* RRR-Sat.png in Resources */,
 				A988B0B61E82E9FA00A35F2D /* NM-Icon.jpeg in Resources */,
 				A9B9A2701E69D36000CDD1A5 /* twitter.png in Resources */,
 				A988B0AA1E82C06D00A35F2D /* Banner_Southwestern-01.jpg in Resources */,
 				A94B6B051E649CDF0083E735 /* NM-Map-NW.png in Resources */,
 				A98AF5181E60D2C400E19929 /* 002-TI.png in Resources */,
-				A970311A1E676D1F0052FF7C /* 003-SCT.jpg in Resources */,
 				A97030ED1E676CB20052FF7C /* 014-MapSCT.png in Resources */,
-				A98AF5201E60D2C400E19929 /* 011-TI.jpg in Resources */,
 				E94D44B0199AF7960062590E /* Map-3.jpg in Resources */,
 				A99FC75F1E77026D002E7922 /* dogs-allowed.png in Resources */,
+				A97113B01E9C36B1002D689C /* Button_CDTMaps.png in Resources */,
+				A9C433C91EA51AA0006A61BE /* TrailsAreaMap.jpg in Resources */,
 				E93E0AF71997CCAF007B4C57 /* 6-Fisher.JPG in Resources */,
 				E93E0AF81997CCAF007B4C57 /* 7-RSJ.jpg in Resources */,
 				A988B0B21E82E9FA00A35F2D /* Banner_Northeastern-01 Icon.jpeg in Resources */,
 				A98AF5111E60D2C400E19929 /* 018-RRR.jpg in Resources */,
+				A95554D01E94357900A06479 /* 002-SCT.png in Resources */,
+				A95554E61E9438E300A06479 /* 020-SCT.jpg in Resources */,
 				E94D44BE199D06A90062590E /* guidelogos.jpg in Resources */,
 				E9FCE2A41A129DB100066292 /* iPhone35.storyboard in Resources */,
 				A98AF4BF1E60A99300E19929 /* 017-RRR.png in Resources */,
+				A996547D1E9E8F6C0031CDCC /* CommunityOverview.jpg in Resources */,
+				A9A7B5741E9FC74500AE1345 /* ButtoniPad.png in Resources */,
 				A94B6B041E649CDF0083E735 /* NM-Map-NE.png in Resources */,
+				A95554E41E9436DA00A06479 /* 018-SCT.png in Resources */,
 				A98AF4D81E60A99300E19929 /* 011-ALA.png in Resources */,
 				A98AF50D1E60D2C400E19929 /* 014-RRR.jpg in Resources */,
 				E94D44B6199AF7960062590E /* Map-9.jpg in Resources */,
+				A95554B51E942AB900A06479 /* 006-TI.png in Resources */,
 				A98AF4BE1E60A99300E19929 /* 018-RRR.png in Resources */,
 				A97030E91E676CB20052FF7C /* 018-MapSCT.png in Resources */,
 				E9089C7919941AA700578975 /* DSCN1033.JPG in Resources */,
@@ -1255,18 +1379,19 @@
 				A97030F81E676CB20052FF7C /* 003-MapSCT.png in Resources */,
 				E94D44B3199AF7960062590E /* Map-6.jpg in Resources */,
 				A98AF4BB1E60A99300E19929 /* 021-RRR.png in Resources */,
+				A99654811E9E8F6C0031CDCC /* TulieTrails.jpg in Resources */,
 				A97030EB1E676CB20052FF7C /* 016-MapSCT.png in Resources */,
+				A95554DA1E94357900A06479 /* 011-SCT.png in Resources */,
 				E90899B1198AC9A100578975 /* InfoPlist.strings in Resources */,
+				A95554DF1E94357900A06479 /* 016-SCT.png in Resources */,
 				E93E0AF91997CCAF007B4C57 /* 8-LosPinosTrail.JPG in Resources */,
 				A98AF5121E60D2C400E19929 /* 019-RRR.jpg in Resources */,
-				A970311B1E676D1F0052FF7C /* 004-SCT.jpg in Resources */,
 				A9EC063C1E79862B00D02758 /* dogs-allowed-black.png in Resources */,
 				A98AF5171E60D2C400E19929 /* 004-TI.png in Resources */,
+				A99654841E9E91940031CDCC /* GrantCountyTrails_updated.jpg in Resources */,
 				A98AF4D91E60A99300E19929 /* 012-ALA.png in Resources */,
 				A97030F61E676CB20052FF7C /* 005-MapSCT.png in Resources */,
-				A97031151E676D1F0052FF7C /* 018-SCT.jpg in Resources */,
 				A98AF5141E60D2C400E19929 /* 021-RRR.jpg in Resources */,
-				A97031191E676D1F0052FF7C /* 002-SCT.jpg in Resources */,
 				A94B6AFB1E6489660083E735 /* RRR.png in Resources */,
 				A999336C1E807A0200D98FF2 /* iPhone4.png in Resources */,
 				A98AF5041E60D2C400E19929 /* 005-RRR.jpg in Resources */,
@@ -1275,25 +1400,28 @@
 				E94D44B2199AF7960062590E /* Map-5.jpg in Resources */,
 				A98AF5101E60D2C400E19929 /* 017-RRR.jpg in Resources */,
 				A98AF4C81E60A99300E19929 /* 008-RRR.png in Resources */,
+				A97113B41E9C3843002D689C /* CubaCDT.png in Resources */,
 				E94D44AE199AF7960062590E /* Map-1.jpg in Resources */,
 				A94B6AFA1E6489660083E735 /* Splash.png in Resources */,
 				A97030F41E676CB20052FF7C /* 007-MapSCT.png in Resources */,
+				A9C433C71EA51AA0006A61BE /* ContinentalDivideTrail.jpg in Resources */,
 				A94CCC471C1B2EF80043F7C1 /* guidelogos-1.jpg in Resources */,
-				A97031131E676D1F0052FF7C /* 016-SCT.jpg in Resources */,
 				E93E0AF41997CCAF007B4C57 /* 3-LibraryLoop.JPG in Resources */,
 				A98AEF0F1E7AEA7A00EB4D20 /* NewBanner.jpg in Resources */,
+				A99654931E9ED5DF0031CDCC /* Tulie-Overview.png in Resources */,
 				A927D7D81E7C65470038B5E0 /* menu.png in Resources */,
+				A95554DE1E94357900A06479 /* 015-SCT.png in Resources */,
+				A95554DC1E94357900A06479 /* 013-SCT.png in Resources */,
 				A97030F71E676CB20052FF7C /* 004-MapSCT.png in Resources */,
-				A970311D1E676D1F0052FF7C /* 006-SCT.jpg in Resources */,
-				A970311F1E676D1F0052FF7C /* 008-SCT.jpg in Resources */,
 				A98AF4DA1E60A99300E19929 /* 013-ALA.png in Resources */,
 				A953250B1CCBEC8200F83C74 /* Map-7-1.jpg in Resources */,
 				E94D44B4199AF7960062590E /* Map-7.jpg in Resources */,
 				A988B0C41E8323A100A35F2D /* Button_WalkingHikingTrails.jpg in Resources */,
 				A988B0B51E82E9FA00A35F2D /* Banner_Southwestern-01 Icon.jpeg in Resources */,
 				A98AF4D61E60A99300E19929 /* 009-ALA.png in Resources */,
-				A970311C1E676D1F0052FF7C /* 005-SCT.jpg in Resources */,
+				A95554D91E94357900A06479 /* 010-SCT.png in Resources */,
 				E94D44AF199AF7960062590E /* Map-2.jpg in Resources */,
+				A97113B51E9C3843002D689C /* CubaTrails.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

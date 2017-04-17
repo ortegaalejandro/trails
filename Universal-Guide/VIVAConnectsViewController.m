@@ -15,7 +15,7 @@
 @implementation VIVAConnectsViewController
 
 -(IBAction)connect{
-     [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"http://www.stepintocuba.org"]];
+     [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"https://viva-connects.org"]];
 }
 
 

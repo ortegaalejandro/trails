@@ -16,6 +16,8 @@
 @property (nonatomic, strong) NSArray *DogsSCT;
 @property (nonatomic, strong) NSArray *MapSCT;
 @property (nonatomic, strong) NSArray *MapLinkSCT;
+@property (nonatomic, strong) NSArray *location;
+
 
 
 @end

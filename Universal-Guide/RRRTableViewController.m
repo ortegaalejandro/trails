@@ -173,6 +173,29 @@
                  @"http://maps.apple.com/maps?daddr=36.978439,-104.396742",
                  @"http://maps.apple.com/maps?daddr=36.779824,-103.976957",];
     
+    _RRRLocation = @[@"Raton",
+                     @"Raton",
+                     @"Raton",
+                     @"Sugarite Canyon State Park",
+                     @"Sugarite Canyon State Park",
+                     @"Capulin Volcano National Monument",
+                     @"Raton",
+                     @"Raton",
+                     @"Sugarite Canyon State Park",
+                     @"Sugarite Canyon State Park",
+                     @"Sugarite Canyon State Park",
+                     @"Sugarite Canyon State Park",
+                     @"Sugarite Canyon State Park",
+                     @"Sugarite Canyon State Park",
+                     @"Sugarite Canyon State Park",
+                     @"Sugarite Canyon State Park",
+                     @"Capulin Volcano National Monument",
+                     @"Capulin Volcano National Monument",
+                     @"Capulin Volcano National Monument",
+                     @"Raton",
+                     @"Sugarite Canyon State Park",
+                     @"Capulin Volcano National  Monument",];
+    
     
 }
 
@@ -212,6 +235,7 @@
     cell.DogsLabelRRR.image = [UIImage imageNamed:_DogsRRR[row]];
     cell.MapRRR.image = [UIImage imageNamed:_MapRRR[row]];
     cell.MapLinkRRR = _MapLinkRRR[row];
+    cell.RRRLocation.text = _RRRLocation[row];
     
     return cell;
 }

@@ -16,6 +16,7 @@
 @property (nonatomic, strong) NSArray *DogsALA;
 @property (nonatomic, strong) NSArray *MapALA;
 @property (nonatomic, strong) NSArray *MapLinkALA;
+@property (nonatomic, strong) NSArray *Otero;
 
 
 @end

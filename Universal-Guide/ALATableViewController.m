@@ -35,7 +35,6 @@
     // self.navigationItem.rightBarButtonItem = self.editButtonItem;
     
     _TitleALA = @[@"Alameda Park Zoo",
-                 @"Alamogordo High School Track",
                  @"Indian Wells Ave. Walking Path",
                  @"NM School for the Blind and Visually Impaired Campus",
                  @"North Scenic Drive Walking Area",
@@ -49,7 +48,6 @@
                  @"Overlook Trail",];
     
     _DescriptionALA = @[@".25 mile, Grade 1 Concrete sidewalks",
-                     @".25 mile, Grade 2 Rubberized track",
                      @"1 mile one way, Grade 2 Asphalt",
                      @"1 mile loop, Grade 1 Concrete sidewalks",
                      @"2 miles one way, Grade 2 Concrete sidewalks",
@@ -63,22 +61,20 @@
                      @".2 mile, Grade 3 Blacktop",];
     
     
-    _ImagesALA =   @[@"001-TI.png",
-                  @"002-TI.png",
-                  @"003-TI.JPG",
+    _ImagesALA =   @[@"001-TI.jpg",
+                  @"003-TI.png",
                   @"004-TI.png",
-                  @"005-TI.jpg",
-                  @"006-TI.JPG",
-                  @"007-TI.JPG",
-                  @"008-TI.JPG",
+                  @"005-TI.png",
+                  @"006-TI.png",
+                  @"007-TI.png",
+                  @"008-TI.png",
                   @"009-TI.png",
-                  @"010-TI.JPG",
-                  @"011-TI.JPG",
+                  @"010-TI.png",
+                  @"011-TI.png",
                   @"012-TI.png",
-                  @"013-TI.JPG",];
+                  @"013-TI.png",];
     
     _DogsALA = @[@"dogs-not-allowed.png",
-              @"dogs-not-allowed.png",
               @"dogs-allowed.jpg",
               @"dogs-not-allowed.png",
               @"dogs-allowed.jpg",
@@ -92,7 +88,6 @@
               @"dogs-not-allowed.png",];
     
       _MapALA = @[@"001-ALA.png",
-               @"002-ALA.png",
                @"003-ALA.png",
                @"004-ALA.png",
                @"005-ALA.png",
@@ -105,8 +100,7 @@
                @"012-ALA.png",
                @"013-ALA.png",];
     
-    _MapLinkALA = @[@"http://maps.apple.com/maps?daddr=32.900519,-105.960900",
-                 @"http://maps.apple.com/maps?daddr=32.893326,-105.946552",
+    _MapLinkALA = @[@"http://maps.apple.com/maps?daddr=32.900519,-105.960900",                 
                  @"http://maps.apple.com/maps?daddr=32.916332,-105.948771",
                  @"http://maps.apple.com/maps?daddr=32.911213,-105.948487",
                  @"http://maps.apple.com/maps?daddr=32.919739,-105.927051",
@@ -118,6 +112,19 @@
                  @"http://maps.apple.com/maps?daddr=32.958348,-105.852340",
                  @"http://maps.apple.com/maps?daddr=32.941649,-105.737449",
                  @"http://maps.apple.com/maps?daddr=32.957377,-105.749677",];
+    
+    _Otero = @[@"Alamogordo",
+               @"Alamogordo",
+               @"Alamogordo",
+               @"Alamogordo",
+               @"Alamogordo",
+               @"Alamogordo",
+               @"Tularosa",
+               @"White Sands",
+               @"White Sands",
+               @"Lincoln National Forest, Cloudcroft",
+               @"Lincoln National Forest, Cloudcroft",
+               @"Lincoln National Forest, Cloudcroft",];
                  
                  
                  }
@@ -158,7 +165,7 @@
         cell.DogsLabelALA.image = [UIImage imageNamed:_DogsALA[row]];
         cell.MapALA.image = [UIImage imageNamed:_MapALA[row]];
         cell.MapLinkALA = _MapLinkALA[row];
-        
+        cell.OteroLabel.text = _Otero[row];
         return cell;
     }
                  
@@ -170,7 +177,7 @@
                          NSIndexPath *myIndexPath = [self.tableView indexPathForSelectedRow];
                          
                          int row = (int)[myIndexPath row];
-                         detailviewcontroller.DetailModalALA = @[_TitleALA[row],_DescriptionALA[row],_ImagesALA[row], _DogsALA[row],_MapALA[row],_MapLinkALA[row]];
+                         detailviewcontroller.DetailModalALA = @[_TitleALA[row],_DescriptionALA[row],_ImagesALA[row], _DogsALA[row],_MapALA[row],_MapLinkALA[row],_Otero[row]];
                      }
                  }
                  

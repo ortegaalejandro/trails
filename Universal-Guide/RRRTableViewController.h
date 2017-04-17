@@ -16,6 +16,8 @@
 @property (nonatomic, strong) NSArray *DogsRRR;
 @property (nonatomic, strong) NSArray *MapRRR;
 @property (nonatomic, strong) NSArray *MapLinkRRR;
+@property (nonatomic, strong) NSArray *RRRLocation;
+
 
 
 @end

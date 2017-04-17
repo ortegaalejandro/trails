@@ -16,5 +16,6 @@
 @property (strong,nonatomic) IBOutlet UIImageView *DogsLabelSCT;
 @property (strong,nonatomic) IBOutlet UIImageView *MapSCT;
 @property (strong,nonatomic) IBOutlet NSString *MapLinkSCT;
+@property (strong,nonatomic) IBOutlet UILabel *location;
 
 @end

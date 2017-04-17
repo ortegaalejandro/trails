@@ -16,7 +16,7 @@
 
 -(IBAction)link {
  
-    [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"http://www.stepintocuba.org"]];
+    [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"http://growraton.org/index.html"]];
 }
 - (void)viewDidLoad
 {

@@ -37,6 +37,7 @@
     _DogsLabelALA.image = [UIImage imageNamed:_DetailModalALA[3]];
     _MapALA.image = [UIImage imageNamed:_DetailModalALA[4]];
     _MapLinkALA = _DetailModalALA[5];
+    _OteroLabel = _DetailModalALA[6];
     
     self.navigationItem.title = _DetailModalALA[0];
     
@@ -90,12 +91,6 @@
         mySLCompserSheet = [[SLComposeViewController alloc] init];
         mySLCompserSheet = [SLComposeViewController composeViewControllerForServiceType:SLServiceTypeTwitter];
         [mySLCompserSheet setInitialText:@"Going for a walk around the zoo. "];
-        [self presentViewController:mySLCompserSheet animated:YES completion:NULL];
-    }
-    if ([_TitleLabelALA.text isEqualToString:@"Alamogordo High School Track"]){
-        mySLCompserSheet = [[SLComposeViewController alloc] init];
-        mySLCompserSheet = [SLComposeViewController composeViewControllerForServiceType:SLServiceTypeTwitter];
-        [mySLCompserSheet setInitialText:@"Going for a walk around the track"];
         [self presentViewController:mySLCompserSheet animated:YES completion:NULL];
     }
     if ([_TitleLabelALA.text isEqualToString:@"Indian Wells Ave. Walking Path"]){
@@ -202,13 +197,7 @@
         [mySLCompserSheet setInitialText:@"Going for a walk around the zoo. "];
         [self presentViewController:mySLCompserSheet animated:YES completion:NULL];
     }
-    if ([_TitleLabelALA.text isEqualToString:@"Alamogordo High School Track"]){
-        mySLCompserSheet = [[SLComposeViewController alloc] init];
-        mySLCompserSheet = [SLComposeViewController composeViewControllerForServiceType:SLServiceTypeFacebook];
-        [mySLCompserSheet setInitialText:@"Going for a walk around the track"];
-        [self presentViewController:mySLCompserSheet animated:YES completion:NULL];
-    }
-    if ([_TitleLabelALA.text isEqualToString:@"Indian Wells Ave. Walking Path"]){
+       if ([_TitleLabelALA.text isEqualToString:@"Indian Wells Ave. Walking Path"]){
         mySLCompserSheet = [[SLComposeViewController alloc] init];
         mySLCompserSheet = [SLComposeViewController composeViewControllerForServiceType:SLServiceTypeFacebook];
         [mySLCompserSheet setInitialText:@"Going for a walk around Indian Wells Ave."];

@@ -55,6 +55,7 @@
                @"Gomez Peak Picnic Area Trailhead",
                @"Little Walnut Picnic Area Trailhead",];
     
+    
     _DescriptionSCT = @[@"1.05 mile, Grade 1,2&3",
                      @"0.25 miles, Grade 1",
                      @".36 miles, Grade 1",
@@ -75,25 +76,25 @@
                      @"Network of trails, varies",
                      @"Network of trails, varies",];
     
-    _ImagesSCT = @[@"001-SCT.jpg",
-                @"002-SCT.jpg",
-                @"003-SCT.jpg",
-                @"004-SCT.jpg",
-                @"005-SCT.jpg",
-                @"006-SCT.jpg",
-                @"007-SCT.jpg",
-                @"008-SCT.jpg",
-                @"009-SCT.jpg",
-                @"010-SCT.jpg",
-                @"011-SCT.jpg",
-                @"012-SCT.jpg",
-                @"013-SCT.jpg",
-                @"014-SCT.jpg",
-                @"015-SCT.jpg",
-                @"016-SCT.jpg",
-                @"017-SCT.jpg",
-                @"018-SCT.jpg",
-                @"019-SCT.jpg",];
+    _ImagesSCT = @[@"001-SCT.png",
+                @"002-SCT.png",
+                @"003-SCT.png",
+                @"004-SCT.png",
+                @"005-SCT.png",
+                @"006-SCT.png",
+                @"007-SCT.png",
+                @"008-SCT.png",
+                @"009-SCT.png",
+                @"010-SCT.png",
+                @"011-SCT.png",
+                @"012-SCT.png",
+                @"013-SCT.png",
+                @"014-SCT.png",
+                @"015-SCT.png",
+                @"016-SCT.png",
+                @"017-SCT.png",
+                @"018-SCT.png",
+                @"019-SCT.png",];
     
     _DogsSCT = @[@"dogs-allowed.jpg",
               @"dogs-not-allowed.png",
@@ -131,9 +132,9 @@
              @"014-MapSCT.png",
              @"015-MapSCT.png",
              @"016-MapSCT.png",
-             @"017-MapSCT.png",
              @"018-MapSCT.png",
-             @"019-MapSCT.png",];
+             @"019-MapSCT.png",
+             @"020-MapSCT.png",];
     
     _MapLinkSCT = @[@"http://maps.apple.com/maps?daddr=32.77096,-108.275229",
                  @"http://maps.apple.com/maps?daddr=32.793398,-108.269396",
@@ -154,6 +155,26 @@
                  @"http://maps.apple.com/maps?daddr=32.794991,-108.184102",
                  @"http://maps.apple.com/maps?daddr=32.848650,-108.276654",
                  @"http://maps.apple.com/maps?daddr=32.854816,-108.275061",];
+    
+    _location = @[@"Silver City",
+                  @"Silver City",
+                  @"Silver City",
+                  @"Silver City",
+                  @"Silver City",
+                  @"Silver City",
+                  @"Silver City",
+                  @"Silver City",
+                  @"Silver City",
+                  @"Santa Clara",
+                  @"Bayard",
+                  @"Bayard",
+                  @"Bayard",
+                  @"Santa Clara",
+                  @"Santa Clara",
+                  @"Fort Bayard",
+                  @"Arenas Valley",
+                  @"Gila National Forest, Silver City",
+                  @"Gila National Forest, Silver City"];
     
     
 }
@@ -194,6 +215,7 @@
     cell.DogsLabelSCT.image = [UIImage imageNamed:_DogsSCT[row]];
     cell.MapSCT.image = [UIImage imageNamed:_MapSCT[row]];
     cell.MapLinkSCT = _MapLinkSCT[row];
+    cell.location.text = _location[row];
     
     return cell;
 }
@@ -206,7 +228,7 @@
         NSIndexPath *myIndexPath = [self.tableView indexPathForSelectedRow];
         
         int row = (int)[myIndexPath row];
-        detailviewcontroller.DetailModalSCT = @[_TitleSCT[row],_DescriptionSCT[row],_ImagesSCT[row], _DogsSCT[row],_MapSCT[row],_MapLinkSCT[row]];
+        detailviewcontroller.DetailModalSCT = @[_TitleSCT[row], _DescriptionSCT[row],_ImagesSCT[row], _DogsSCT[row],_MapSCT[row],_MapLinkSCT[row],_location[row], ];
     }
 }
 

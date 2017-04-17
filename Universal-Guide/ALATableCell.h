@@ -16,5 +16,6 @@
 @property (strong,nonatomic) IBOutlet UIImageView *DogsLabelALA;
 @property (strong,nonatomic) IBOutlet UIImageView *MapALA;
 @property (strong,nonatomic) IBOutlet NSString *MapLinkALA;
+@property (strong,nonatomic) IBOutlet UILabel *OteroLabel;
 
 @end
