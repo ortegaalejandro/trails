@@ -35,7 +35,7 @@
     // Uncomment the following line to display an Edit button in the navigation bar for this view controller.
     // self.navigationItem.rightBarButtonItem = self.editButtonItem;
     
-    _TitleRRR = @[@"Roundhouse Memorial Park trails",
+    _TitleRRR = @[@"Roundhouse Memorial Park Trails",
                @"Raton Regional Aquatic Center",
                @"Raton High School Track",
                @"Boardwalk & River Walk Trail",

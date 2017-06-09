@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12118" systemVersion="16E195" targetRuntime="iOS.CocoaTouch.iPad" propertyAccessControl="none" colorMatched="YES" initialViewController="1mb-LX-TaB">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12118" systemVersion="16F73" targetRuntime="iOS.CocoaTouch.iPad" propertyAccessControl="none" colorMatched="YES" initialViewController="1mb-LX-TaB">
     <device id="ipad9_7" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
@@ -215,7 +215,7 @@
                                 </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Where do you want to go?" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="OOg-Bt-Xph">
-                                <rect key="frame" x="115" y="412" width="539" height="54"/>
+                                <rect key="frame" x="124" y="413" width="543" height="54"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="47"/>
                                 <nil key="textColor"/>
@@ -274,7 +274,7 @@
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="NWX-3G-sb2">
-                                <rect key="frame" x="333" y="956" width="187" height="58"/>
+                                <rect key="frame" x="265" y="812" width="187" height="58"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -290,10 +290,6 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="19"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" id="hhi-ME-IEP">
-                                <rect key="frame" x="62" y="583" width="644" height="441"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            </imageView>
                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Label" lineBreakMode="wordWrap" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="vpT-Hb-nRp">
                                 <rect key="frame" x="20" y="427" width="412" height="27"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
@@ -348,6 +344,10 @@
                                     <segue destination="51g-uF-VHk" kind="push" id="CnX-9j-gmz"/>
                                 </connections>
                             </button>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" id="hhi-ME-IEP">
+                                <rect key="frame" x="62" y="583" width="644" height="441"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
@@ -583,10 +583,17 @@
                                     <action selector="Directions:" destination="idt-Qk-2D5" eventType="touchUpInside" id="TIn-0h-DPf"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="oSx-rz-DGP">
-                                <rect key="frame" x="20" y="963" width="538" height="58"/>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Label" lineBreakMode="wordWrap" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="oSx-rz-DGP">
+                                <rect key="frame" x="20" y="963" width="443" height="58"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="21"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Share your hike on:" lineBreakMode="wordWrap" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="Wav-Wv-KgX">
+                                <rect key="frame" x="471" y="963" width="101" height="57"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
@@ -709,7 +716,7 @@
                             <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="Gfw-vz-Iut">
                                 <rect key="frame" x="159" y="448" width="450" height="89"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Tulie Trails" image="TulieTrails.jpg"/>
+                                <state key="normal" title="Tulie Trails" image="OteroCounty.jpg"/>
                                 <connections>
                                     <segue destination="Dxm-Mu-rzi" kind="push" id="5kq-f4-fy0"/>
                                 </connections>
@@ -812,22 +819,22 @@
                                 <rect key="frame" x="20" y="474" width="728" height="501"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="Te6-mX-kfE">
-                                <rect key="frame" x="20" y="983" width="500" height="31"/>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="Te6-mX-kfE">
+                                <rect key="frame" x="20" y="983" width="467" height="31"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Post to:" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="6Tv-Wj-xQj">
-                                <rect key="frame" x="528" y="988" width="66" height="21"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Share your hike on:" lineBreakMode="wordWrap" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="6Tv-Wj-xQj">
+                                <rect key="frame" x="495" y="984" width="162" height="31"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="ddU-bF-93r">
-                                <rect key="frame" x="699" y="983" width="49" height="32"/>
+                                <rect key="frame" x="710" y="983" width="38" height="32"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Twitter" image="twitter.png">
                                     <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -835,17 +842,6 @@
                                 <connections>
                                     <action selector="SendATweet:" destination="3K6-HS-38g" eventType="touchUpInside" id="4Sj-Ai-HSw"/>
                                     <action selector="SendATweet:" destination="52z-KG-N3V" eventType="touchUpInside" id="JA7-XJ-ArA"/>
-                                </connections>
-                            </button>
-                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="zZ6-6A-oWT">
-                                <rect key="frame" x="634" y="983" width="42" height="31"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Facebook" image="facebook-ios-logo.png">
-                                    <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                </state>
-                                <connections>
-                                    <action selector="PostToFacebook:" destination="52z-KG-N3V" eventType="touchUpInside" id="g1B-KU-jUY"/>
-                                    <action selector="PostToFacebook:" destination="3K6-HS-38g" eventType="touchUpInside" id="mTv-wr-do3"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="ubP-06-kjo">
@@ -863,6 +859,17 @@
                                 <connections>
                                     <action selector="Directions:" destination="idt-Qk-2D5" eventType="touchUpInside" id="5zM-Lb-Ck9"/>
                                     <action selector="Directions:" destination="52z-KG-N3V" eventType="touchUpInside" id="8Z2-8y-HOu"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="zZ6-6A-oWT">
+                                <rect key="frame" x="665" y="982" width="37" height="31"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Facebook" image="facebook-ios-logo.png">
+                                    <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <action selector="PostToFacebook:" destination="52z-KG-N3V" eventType="touchUpInside" id="g1B-KU-jUY"/>
+                                    <action selector="PostToFacebook:" destination="3K6-HS-38g" eventType="touchUpInside" id="mTv-wr-do3"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -1000,7 +1007,7 @@
                             <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="jU9-Ok-byQ">
                                 <rect key="frame" x="159" y="598" width="450" height="89"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Tulie Trails" image="TulieTrails.jpg"/>
+                                <state key="normal" title="Tulie Trails" image="OteroCounty.jpg"/>
                                 <connections>
                                     <segue destination="Dxm-Mu-rzi" kind="push" id="gAV-0I-4sR"/>
                                 </connections>
@@ -1128,7 +1135,7 @@
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="7oC-6l-YSr">
-                                <rect key="frame" x="259" y="922" width="390" height="31"/>
+                                <rect key="frame" x="259" y="922" width="193" height="31"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -1202,6 +1209,14 @@
                                 <rect key="frame" x="107" y="696" width="554" height="328"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="ZmS-lz-bfw">
+                                <rect key="frame" x="178" y="359" width="48" height="67"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Live Map" image="mapicon.png"/>
+                                <connections>
+                                    <action selector="LiveMap:" destination="3K6-HS-38g" eventType="touchUpInside" id="fTm-yf-h8J"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
@@ -1302,6 +1317,7 @@
         <image name="NM-Map-SE.png" width="725" height="1017"/>
         <image name="NM-Map-SW.png" width="1173" height="1017"/>
         <image name="NewBanner-01.jpg" width="1536" height="698"/>
+        <image name="OteroCounty.jpg" width="2352" height="467"/>
         <image name="RRRCover.png" width="547" height="837"/>
         <image name="RamblinRoundRaton_Updated.jpg" width="2352" height="467"/>
         <image name="RatonMap.png" width="713" height="1310"/>
@@ -1312,10 +1328,10 @@
         <image name="TTSplash.png" width="320" height="494"/>
         <image name="TrailsAreaMap.jpg" width="2352" height="467"/>
         <image name="Tulie-Overview.png" width="865" height="888"/>
-        <image name="TulieTrails.jpg" width="2352" height="467"/>
         <image name="VIVA Connects.jpg" width="2352" height="467"/>
         <image name="facebook-ios-logo-black.png" width="175" height="175"/>
         <image name="facebook-ios-logo.png" width="175" height="175"/>
+        <image name="mapicon.png" width="409" height="552"/>
         <image name="twitter.png" width="518" height="518"/>
     </resources>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
@@ -1325,10 +1341,10 @@
     </simulatedMetricsContainer>
     <inferredMetricsTieBreakers>
         <segue reference="qEJ-sP-NPR"/>
-        <segue reference="Pan-cf-DS4"/>
-        <segue reference="LCc-7F-3Wm"/>
-        <segue reference="vG0-sb-zFJ"/>
-        <segue reference="gAV-0I-4sR"/>
+        <segue reference="rPh-2R-cz1"/>
         <segue reference="Pjp-gF-K0S"/>
+        <segue reference="vG0-sb-zFJ"/>
+        <segue reference="mvR-YZ-lpJ"/>
+        <segue reference="5kq-f4-fy0"/>
     </inferredMetricsTieBreakers>
 </document>

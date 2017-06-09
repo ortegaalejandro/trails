@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A9104A101EA57E6A000F914A /* 008-RRR.png in Resources */ = {isa = PBXBuildFile; fileRef = A9104A0F1EA57E6A000F914A /* 008-RRR.png */; };
 		A921472A1E65E3870060DAED /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A92147291E65E3870060DAED /* CoreLocation.framework */; settings = {ATTRIBUTES = (Required, ); }; };
 		A927D7D81E7C65470038B5E0 /* menu.png in Resources */ = {isa = PBXBuildFile; fileRef = A927D7D71E7C65470038B5E0 /* menu.png */; };
 		A94B6AFA1E6489660083E735 /* Splash.png in Resources */ = {isa = PBXBuildFile; fileRef = A94B6AF81E6489660083E735 /* Splash.png */; };
@@ -206,6 +205,9 @@
 		A9C433C81EA51AA0006A61BE /* StepIntoCubaTrails.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A9C433C51EA51AA0006A61BE /* StepIntoCubaTrails.jpg */; };
 		A9C433C91EA51AA0006A61BE /* TrailsAreaMap.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A9C433C61EA51AA0006A61BE /* TrailsAreaMap.jpg */; };
 		A9C433CB1EA52C35006A61BE /* CubaBanner.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A9C433CA1EA52C35006A61BE /* CubaBanner.jpg */; };
+		A9CBE7C01ECCFFFD00BEC1A8 /* OteroCounty.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A9CBE7BF1ECCFFFD00BEC1A8 /* OteroCounty.jpg */; };
+		A9CBE7C21ECDF36B00BEC1A8 /* mapicon.png in Resources */ = {isa = PBXBuildFile; fileRef = A9CBE7C11ECDF36B00BEC1A8 /* mapicon.png */; };
+		A9CBE7C41ECE115100BEC1A8 /* drop pin graphic.png in Resources */ = {isa = PBXBuildFile; fileRef = A9CBE7C31ECE115100BEC1A8 /* drop pin graphic.png */; };
 		A9EC06391E79825000D02758 /* facebook-ios-logo-black.png in Resources */ = {isa = PBXBuildFile; fileRef = A9EC06381E79825000D02758 /* facebook-ios-logo-black.png */; };
 		A9EC063C1E79862B00D02758 /* dogs-allowed-black.png in Resources */ = {isa = PBXBuildFile; fileRef = A9EC063A1E79862B00D02758 /* dogs-allowed-black.png */; };
 		A9EC063D1E79862B00D02758 /* dogs-not-allowed-black.png in Resources */ = {isa = PBXBuildFile; fileRef = A9EC063B1E79862B00D02758 /* dogs-not-allowed-black.png */; };
@@ -278,7 +280,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		A9104A0F1EA57E6A000F914A /* 008-RRR.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "008-RRR.png"; sourceTree = "<group>"; };
 		A92147291E65E3870060DAED /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
 		A927D7D71E7C65470038B5E0 /* menu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menu.png; sourceTree = "<group>"; };
 		A94B6AF81E6489660083E735 /* Splash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Splash.png; sourceTree = "<group>"; };
@@ -492,6 +493,9 @@
 		A9C433C51EA51AA0006A61BE /* StepIntoCubaTrails.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = StepIntoCubaTrails.jpg; path = Buttons/StepIntoCubaTrails.jpg; sourceTree = "<group>"; };
 		A9C433C61EA51AA0006A61BE /* TrailsAreaMap.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = TrailsAreaMap.jpg; path = Buttons/TrailsAreaMap.jpg; sourceTree = "<group>"; };
 		A9C433CA1EA52C35006A61BE /* CubaBanner.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = CubaBanner.jpg; sourceTree = "<group>"; };
+		A9CBE7BF1ECCFFFD00BEC1A8 /* OteroCounty.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = OteroCounty.jpg; sourceTree = "<group>"; };
+		A9CBE7C11ECDF36B00BEC1A8 /* mapicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mapicon.png; sourceTree = "<group>"; };
+		A9CBE7C31ECE115100BEC1A8 /* drop pin graphic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "drop pin graphic.png"; sourceTree = "<group>"; };
 		A9EC06381E79825000D02758 /* facebook-ios-logo-black.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "facebook-ios-logo-black.png"; sourceTree = "<group>"; };
 		A9EC063A1E79862B00D02758 /* dogs-allowed-black.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dogs-allowed-black.png"; sourceTree = "<group>"; };
 		A9EC063B1E79862B00D02758 /* dogs-not-allowed-black.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dogs-not-allowed-black.png"; sourceTree = "<group>"; };
@@ -696,6 +700,9 @@
 		A927D7CB1E7C4AB90038B5E0 /* Buttons */ = {
 			isa = PBXGroup;
 			children = (
+				A9CBE7C31ECE115100BEC1A8 /* drop pin graphic.png */,
+				A9CBE7C11ECDF36B00BEC1A8 /* mapicon.png */,
+				A9CBE7BF1ECCFFFD00BEC1A8 /* OteroCounty.jpg */,
 				A9C433C41EA51AA0006A61BE /* ContinentalDivideTrail.jpg */,
 				A9C433C51EA51AA0006A61BE /* StepIntoCubaTrails.jpg */,
 				A9C433C61EA51AA0006A61BE /* TrailsAreaMap.jpg */,
@@ -718,11 +725,11 @@
 				A988B0BB1E8323A100A35F2D /* Button_TulieTrails.jpg */,
 				A988B0BC1E8323A100A35F2D /* Button_VIVAConnect.jpg */,
 				A988B0BD1E8323A100A35F2D /* Button_WalkingHikingTrails.jpg */,
+				A9EC063E1E79CADF00D02758 /* Directions.png */,
 				A927D7C51E7C49CB0038B5E0 /* Social */,
 				A927D7D71E7C65470038B5E0 /* menu.png */,
 				A98AEF0C1E7ADCCB00EB4D20 /* Button_v1_with_arrow_v3.jpg */,
 				A98AEF0A1E7ADBF700EB4D20 /* Button_v3.jpg */,
-				A9EC063E1E79CADF00D02758 /* Directions.png */,
 			);
 			name = Buttons;
 			sourceTree = "<group>";
@@ -818,7 +825,6 @@
 		A927D7D21E7C4C3E0038B5E0 /* RRR images */ = {
 			isa = PBXGroup;
 			children = (
-				A9104A0F1EA57E6A000F914A /* 008-RRR.png */,
 				A95CBD821E6DCE7E00672514 /* 012-RRR.jpg */,
 				A99117CA1E6DB9F900EB0C28 /* 008-RRR.jpg */,
 				A9B9A2731E6A065F00CDD1A5 /* 003-RRR.jpg */,
@@ -1233,6 +1239,7 @@
 				A97113B11E9C36B1002D689C /* Button_SICMaps.png in Resources */,
 				A988B0C31E8323A100A35F2D /* Button_VIVAConnect.jpg in Resources */,
 				A95554B61E942AB900A06479 /* 007-TI.png in Resources */,
+				A9CBE7C41ECE115100BEC1A8 /* drop pin graphic.png in Resources */,
 				A95554D81E94357900A06479 /* 009-SCT.png in Resources */,
 				E93E0AF31997CCAF007B4C57 /* 2-VillageLoop.jpg in Resources */,
 				A98AF4D51E60A99300E19929 /* 008-ALA.png in Resources */,
@@ -1269,7 +1276,6 @@
 				E90899BA198AC9A100578975 /* iPhone4.storyboard in Resources */,
 				A98AF50F1E60D2C400E19929 /* 016-RRR.jpg in Resources */,
 				A98AF4C21E60A99300E19929 /* 014-RRR.png in Resources */,
-				A9104A101EA57E6A000F914A /* 008-RRR.png in Resources */,
 				E94D44CA199D4D180062590E /* iPad-2x76pt.png in Resources */,
 				A988B0B41E82E9FA00A35F2D /* Banner_Southeastern Icon.png in Resources */,
 				A98AF5091E60D2C400E19929 /* 010-RRR.jpg in Resources */,
@@ -1320,6 +1326,7 @@
 				E93E0AFE1997CF8A007B4C57 /* dogs-not-allowed.jpg in Resources */,
 				A996548F1E9EB1420031CDCC /* SilverCityTrails.png in Resources */,
 				A9BDAA1A1CEA3B740017B176 /* 7-1-SCFG.jpg in Resources */,
+				A9CBE7C01ECCFFFD00BEC1A8 /* OteroCounty.jpg in Resources */,
 				A95554DD1E94357900A06479 /* 014-SCT.png in Resources */,
 				A9EC063F1E79CADF00D02758 /* Directions.png in Resources */,
 				A98AEF0B1E7ADBF700EB4D20 /* Button_v3.jpg in Resources */,
@@ -1360,6 +1367,7 @@
 				A98AF5111E60D2C400E19929 /* 018-RRR.jpg in Resources */,
 				A95554D01E94357900A06479 /* 002-SCT.png in Resources */,
 				A95554E61E9438E300A06479 /* 020-SCT.jpg in Resources */,
+				A9CBE7C21ECDF36B00BEC1A8 /* mapicon.png in Resources */,
 				E94D44BE199D06A90062590E /* guidelogos.jpg in Resources */,
 				E9FCE2A41A129DB100066292 /* iPhone35.storyboard in Resources */,
 				A98AF4BF1E60A99300E19929 /* 017-RRR.png in Resources */,
