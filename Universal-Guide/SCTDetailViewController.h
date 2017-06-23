@@ -32,6 +32,7 @@
 @property (strong, nonatomic) IBOutlet NSString *MapLinkSCT;
 
 
+
 @property (strong, nonatomic) NSArray *DetailModalSCT;
 
 

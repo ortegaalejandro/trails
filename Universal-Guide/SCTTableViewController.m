@@ -76,45 +76,45 @@
                      @"Network of trails, varies",
                      @"Network of trails, varies",];
     
-    _ImagesSCT = @[@"001-SCT.png",
-                @"002-SCT.png",
-                @"003-SCT.png",
-                @"004-SCT.png",
-                @"005-SCT.png",
-                @"006-SCT.png",
-                @"007-SCT.png",
-                @"008-SCT.png",
-                @"009-SCT.png",
-                @"010-SCT.png",
-                @"011-SCT.png",
-                @"012-SCT.png",
-                @"013-SCT.png",
-                @"014-SCT.png",
-                @"015-SCT.png",
-                @"016-SCT.png",
-                @"017-SCT.png",
-                @"018-SCT.png",
-                @"019-SCT.png",];
+    _ImagesSCT = @[@"001-SCT.jpg",
+                @"002-SCT.jpg",
+                @"003-SCT.jpg",
+                @"004-SCT.jpg",
+                @"005-SCT.jpg",
+                @"006-SCT.jpg",
+                @"007-SCT.jpg",
+                @"008-SCT.jpg",
+                @"009-SCT.jpg",
+                @"010-SCT.jpg",
+                @"011-SCT.jpg",
+                @"012-SCT.jpg",
+                @"013-SCT.jpg",
+                @"014-SCT.jpg",
+                @"015-SCT.jpg",
+                @"016-SCT.jpg",
+                @"017-SCT.jpg",
+                @"018-SCT.jpg",
+                @"019-SCT.jpg",];
     
-    _DogsSCT = @[@"dogs-allowed.jpg",
-              @"dogs-not-allowed.png",
-              @"dogs-allowed.jpg",
-              @"dogs-allowed.jpg",
-              @"dogs-allowed.jpg",
-              @"dogs-allowed.jpg",
-              @"dogs-allowed.jpg",
-              @"dogs-allowed.jpg",
-              @"dogs-allowed.jpg",
-              @"dogs-allowed.jpg",
-              @"dogs-allowed.jpg",
-              @"dogs-allowed.jpg",
-              @"dogs-not-allowed.png",
-              @"dogs-allowed.jpg",
-              @"dogs-allowed.jpg",
-              @"dogs-allowed.jpg",
-              @"dogs-allowed.jpg",
-              @"dogs-allowed.jpg",
-              @"dogs-allowed.jpg",];
+    _DogsSCT = @[@"dogs-allowed-black.png",
+              @"dogs-not-allowed-black.png",
+              @"dogs-allowed-black.png",
+              @"dogs-allowed-black.png",
+              @"dogs-allowed-black.png",
+              @"dogs-allowed-black.png",
+              @"dogs-allowed-black.png",
+              @"dogs-allowed-black.png",
+              @"dogs-allowed-black.png",
+              @"dogs-allowed-black.png",
+              @"dogs-allowed-black.png",
+              @"dogs-allowed-black.png",
+              @"dogs-not-allowed-black.png",
+              @"dogs-allowed-black.png",
+              @"dogs-allowed-black.png",
+              @"dogs-allowed-black.png",
+              @"dogs-allowed-black.png",
+              @"dogs-allowed-black.png",
+              @"dogs-allowed-black.png",];
     
     _MapSCT = @[@"001-MapSCT.png",
              @"002-MapSCT.png",
@@ -176,6 +176,8 @@
                   @"Gila National Forest, Silver City",
                   @"Gila National Forest, Silver City"];
     
+   ;
+    
     
 }
 
@@ -216,6 +218,7 @@
     cell.MapSCT.image = [UIImage imageNamed:_MapSCT[row]];
     cell.MapLinkSCT = _MapLinkSCT[row];
     cell.location.text = _location[row];
+   
     
     return cell;
 }
@@ -228,7 +231,7 @@
         NSIndexPath *myIndexPath = [self.tableView indexPathForSelectedRow];
         
         int row = (int)[myIndexPath row];
-        detailviewcontroller.DetailModalSCT = @[_TitleSCT[row], _DescriptionSCT[row],_ImagesSCT[row], _DogsSCT[row],_MapSCT[row],_MapLinkSCT[row],_location[row], ];
+        detailviewcontroller.DetailModalSCT = @[_TitleSCT[row], _DescriptionSCT[row],_ImagesSCT[row], _DogsSCT[row],_MapSCT[row],_MapLinkSCT[row],_location[row],];
     }
 }
 

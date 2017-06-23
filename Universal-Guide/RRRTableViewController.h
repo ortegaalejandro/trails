@@ -17,7 +17,7 @@
 @property (nonatomic, strong) NSArray *MapRRR;
 @property (nonatomic, strong) NSArray *MapLinkRRR;
 @property (nonatomic, strong) NSArray *RRRLocation;
-
+@property (nonatomic, strong) NSArray *LiveMapLink;
 
 
 @end

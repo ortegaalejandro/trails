@@ -17,5 +17,6 @@
 @property (strong,nonatomic) IBOutlet UIImageView *MapRRR;
 @property (strong,nonatomic) IBOutlet NSString *MapLinkRRR;
 @property (strong,nonatomic) IBOutlet UILabel *RRRLocation;
+@property (strong,nonatomic) IBOutlet NSString *LiveMapLink;
 
 @end

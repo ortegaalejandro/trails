@@ -18,4 +18,6 @@
 @property (strong,nonatomic) IBOutlet NSString *MapLinkSCT;
 @property (strong,nonatomic) IBOutlet UILabel *location;
 
+
+
 @end

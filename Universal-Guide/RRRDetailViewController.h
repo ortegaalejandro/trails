@@ -30,6 +30,7 @@
 @property (strong, nonatomic) IBOutlet UIImageView *DogsLabelRRR;
 @property (strong, nonatomic) IBOutlet UIImageView *MapRRR;
 @property (strong, nonatomic) IBOutlet NSString *MapLinkRRR;
+@property (strong, nonatomic) IBOutlet NSString *LiveMapLink;
 
 
 @property (strong, nonatomic) NSArray *DetailModalRRR;

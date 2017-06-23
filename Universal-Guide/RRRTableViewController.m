@@ -196,6 +196,30 @@
                      @"Sugarite Canyon State Park",
                      @"Capulin Volcano National  Monument",];
     
+    _LiveMapLink = @[@"https://www.google.com/maps/d/edit?mid=1nQ-Wrk9M9ka8_M6mTjn_eIwwcY8&ll=36.8997569711763%2C-104.43527378193352&z=15",
+                     @"https://www.google.com/maps/d/edit?mid=1nQ-Wrk9M9ka8_M6mTjn_eIwwcY8&ll=36.8997569711763%2C-104.43527378193352&z=15",
+                     @"https://www.google.com/maps/d/edit?mid=1nQ-Wrk9M9ka8_M6mTjn_eIwwcY8&ll=36.89142586551898%2C-104.44394268146965&z=17",
+                     @"https://www.google.com/maps/d/edit?mid=1nQ-Wrk9M9ka8_M6mTjn_eIwwcY8&ll=36.93971958320148%2C-104.37901176563713&z=16",
+                     @"https://www.google.com/maps/d/edit?mid=1nQ-Wrk9M9ka8_M6mTjn_eIwwcY8&ll=36.94239500419241%2C-104.37907613865349&z=16",
+                     @"https://www.google.com/maps/d/edit?mid=1nQ-Wrk9M9ka8_M6mTjn_eIwwcY8&ll=36.77884211299258%2C-103.98001708141777&z=18",
+                     @"https://www.google.com/maps/d/edit?mid=1nQ-Wrk9M9ka8_M6mTjn_eIwwcY8&ll=36.88940913599073%2C-104.46800746075127&z=15",
+                     @"https://www.google.com/maps/d/edit?mid=1nQ-Wrk9M9ka8_M6mTjn_eIwwcY8&ll=36.89994572462612%2C-104.45294417492363&z=15",
+                     @"https://www.google.com/maps/d/edit?mid=1nQ-Wrk9M9ka8_M6mTjn_eIwwcY8&ll=36.94879919608371%2C-104.38179053417656&z=14",
+                     @"https://www.google.com/maps/d/edit?mid=1nQ-Wrk9M9ka8_M6mTjn_eIwwcY8&ll=36.96964878584103%2C-104.38033141247246&z=14",
+                     @"https://www.google.com/maps/d/edit?mid=1nQ-Wrk9M9ka8_M6mTjn_eIwwcY8&ll=36.96443692360958%2C-104.38852824322197&z=14",
+                     @"https://www.google.com/maps/d/edit?mid=1nQ-Wrk9M9ka8_M6mTjn_eIwwcY8&ll=36.968878367527196%2C-104.39464367977592&z=17",
+                     @"https://www.google.com/maps/d/edit?mid=1nQ-Wrk9M9ka8_M6mTjn_eIwwcY8&ll=36.990938278938444%2C-104.37195219150993&z=14",
+                     @"https://www.google.com/maps/d/edit?mid=1nQ-Wrk9M9ka8_M6mTjn_eIwwcY8&ll=36.9818549207822%2C-104.36560072056267&z=15",
+                     @"https://www.google.com/maps/d/edit?mid=1nQ-Wrk9M9ka8_M6mTjn_eIwwcY8&ll=36.986993023115176%2C-104.39306654087517&z=13",
+                     @"https://www.google.com/maps/d/edit?mid=1nQ-Wrk9M9ka8_M6mTjn_eIwwcY8&ll=36.986993023115176%2C-104.39306654087517&z=13",
+                     @"https://www.google.com/maps/d/edit?mid=1nQ-Wrk9M9ka8_M6mTjn_eIwwcY8&ll=36.777415551369245%2C-103.97728122822258&z=16",
+                     @"https://www.google.com/maps/d/edit?mid=1nQ-Wrk9M9ka8_M6mTjn_eIwwcY8&ll=36.782433960830446%2C-103.96998561970207&z=16",
+                     @"https://www.google.com/maps/d/edit?mid=1nQ-Wrk9M9ka8_M6mTjn_eIwwcY8&ll=36.782433960830446%2C-103.96998561970207&z=16",
+                     @"https://www.google.com/maps/d/edit?mid=1nQ-Wrk9M9ka8_M6mTjn_eIwwcY8&ll=36.89852148252197%2C-104.45441402546379&z=15",
+                     @"https://www.google.com/maps/d/edit?mid=1nQ-Wrk9M9ka8_M6mTjn_eIwwcY8&ll=36.97991796905309%2C-104.39978279224846&z=15",
+                     @"https://www.google.com/maps/d/edit?mid=1nQ-Wrk9M9ka8_M6mTjn_eIwwcY8&ll=36.78291496091835%2C-103.97715248218987&z=15",
+                     ];
+    
     
 }
 
@@ -236,6 +260,7 @@
     cell.MapRRR.image = [UIImage imageNamed:_MapRRR[row]];
     cell.MapLinkRRR = _MapLinkRRR[row];
     cell.RRRLocation.text = _RRRLocation[row];
+    cell.LiveMapLink = _LiveMapLink[row];
     
     return cell;
 }
@@ -248,7 +273,7 @@
         NSIndexPath *myIndexPath = [self.tableView indexPathForSelectedRow];
         
         int row = (int)[myIndexPath row];
-        detailviewcontroller.DetailModalRRR = @[_TitleRRR[row],_DescriptionRRR[row],_ImagesRRR[row], _DogsRRR[row],_MapRRR[row],_MapLinkRRR[row]];
+        detailviewcontroller.DetailModalRRR = @[_TitleRRR[row],_DescriptionRRR[row],_ImagesRRR[row], _DogsRRR[row],_MapRRR[row],_MapLinkRRR[row], _LiveMapLink[row]];
     }
 }
 
